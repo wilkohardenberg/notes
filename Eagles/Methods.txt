@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-03-21T16:56:49.699119
+
+====== Methods ======
+Created Monday 21 March 2011
+
+The 1954 data are taken from the answers sent by the local forestry districts to the Trentino forestry service for a survey of eagles in the Province, co-organised with the Consiglio Nazionale delle Ricerche.
+
+It is always difficult to geolocate precisely historical documents. The data given in 1954, given only with place names and no coordinates, referred in many cases to obsolete toponyms or had errors. I have attempted to geolocate them as precisely as possible using an array of web sources: http://www.geonames.org

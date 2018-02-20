@@ -1,0 +1,35 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-03-25T16:55:08.395105
+
+====== Mapping ======
+Created Friday 25 March 2011
+
+@coulterk Maps are subjective documents created with sciences, choices, selections, ideological backgrounds --> main message cultural geographers try to send to GIS people --> explain silences and signs in a map
+
+@dynamitedan Getty repository of geog names
+
+geohacks?
+wikimedia tool server --> tool to publicize
+
+https://wiki.toolserver.org/view/GeoHack
+
+http://geonames.org
+
+http://geocodenet.us
+
+http://en.wikipedia.org/wiki/Wikipedia:WikiProject_Geographical_coordinates
+
+http://webgis.usc.edu --> address validation
+
+http://www.scribblemaps.com/
+
+http://www.geocommons.org 
+
+Museum of London --> Streetmuseum - IPhone App
+
+@gchomatas Factual (http://t.co/9IQE5XY) offers datasets accessible through an API or can be downloaded. Any data relevant to humanities? 
+@gchomatas Look at http://t.co/9n2ypdk if you are looking for datasets that can be accessed through APIs. You may publish your data too
+
+http://www.aag.org/cs/projects_and_programs/historical_gis_clearinghouse/hgis_projects_programs
+http://gislounge.com/google-maps-and-map-hacking/

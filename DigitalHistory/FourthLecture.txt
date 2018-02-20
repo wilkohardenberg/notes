@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-05-11T18:24:02+02:00
+
+É stato presentato il sito [[http://MapWarper.net|MapWarper.net]] (sito alternativo [[http://warper.geothings.net|qui]]) con cui si possono georeferenziare scansioni di mappe storiche in relazione ad una mappa [[http://OpenStreetMap.org|OpenStreetMap.]] In via teorica è poi possible vedere la mappa storica digitalizzata in Google Maps e procedere alla vettorializzazione dei dati (ovvero a disegnare confini storici, percorsi stradali, punti di interesse sotto forma di poligoni, linee e punti) nella funzione Le Mie Mappe di Google Maps. Ulteriori siti che permettono di procedere alla rettificazione di carte storiche sono [[http://georeferencer.org|Georeferencer]] e [[http://labs.metacarta.com/rectifier|MetacartaRectifier]]. Gli studenti sono anche stati introdotti brevemente al sito [[http://geocommons.org|GeoCommons]], in cui si possono visualizzare graficamente sullo sfondo di mappe vari formati di file, tra cui l'output minimo standard di database e fogli elettronici: [[http://en.wikipedia.org/wiki/Comma-separated_values|.csv.]] In altre parole è possibile usare il sito per geolocalizzare e visualizzare elenchi di indirizzi o di collocazioni di eventi.
+
+Di fronte agli evidenti limiti di un'analisi spaziale svolta solo con strumenti online è stato presentato il software free/open [[http://www.qgis.org/|QGis.]] Non si è voluto fare un corso completo di GIS (i manuali di QGis sono reperibili [[http://www.qgis.org/en/documentation/manuals.html|qui]]), ma sostanzialmente presentare alcune delle funzionalità più siginificative del programma, soprattutto rispetto ai bisogni di uno storico: georeferenziazione, vettorializzazione, inserimento di layers. Le potenzialità di un GIS (sostanzialmente un database georeferenziato) per la ricerca e l'analisi storica sono amplissime e quindi altrettanto vaste sono le funzionalità che sarebbe necessario apprendere per usare appieno QGis. D'altro canto però ogni storico ha esigenze diverse, e ciascuno potrà apprendere facendo quella parte di funzionalità GIS che possono essere utili alla sua ricerca.
+Intanto sono stati elencati alcuni siti utili ad ottenere geodati gratuiti: [[http://www.ing.unitn.it/~grass/docs/free_gis_data.html|http://www.ing.unitn.it/~grass/docs/free_gis_data.html;]] [[http://data.geocomm.com/catalog/IT/index.html|http://data.geocomm.com/catalog/IT/index.html;]] [[http://geodati.gfoss.it|http://geodati.gfoss.it;]] http://naturalearthdata.com.
+
+Un problema ricorrente nell'uso dei GIS in ambito storico è la geolocalizzazione di toponimi desueti o antiquati. In casi come questo il ricercatore non può fare altro che appoggiarsi sul maggior numero di fonti (mappe, repertori, libri) sia storiche che correnti per giungere ad una buona approssimazione della collocazione del toponimo. Uno strumento utile, anche se non sufficiente, può essere il sito [[http://www.geonames.org|GeoNames]], che permette di ottenere le coordinate geografiche di un grandissimo numero di luoghi della terra. Una mancanza, dal punto di vista dello storico, a cui però pare che si stia ponendo rimedio, è che manca una funzione di cronologia e di un nome di luogo non è quindi definibile il periodo storico in cui è stato in uso o meno.
+
+
+
+
+
+

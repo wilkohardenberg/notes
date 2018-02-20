@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-03-25T11:42:57.002409
+
+====== TextMining ======
+Created Friday 25 March 2011
+
+Text is data, not all data is text
+
+1) recommendation (machine hints to parts of corpus that have similarities with your previous searches --> Amazon)
+2) clustering (machine gathers/indexes data autonomously)
+3) classification (machine classifies data on the basis of your research criteria)
+
+Apache Mahout: scalable machine learning library supporting large data sets (made TM possible for the internet)
+Weka --> desktop
+
+Most powerful text search engine library: Lucene http://ow.ly/4maHK
+Weka: NZ data mining software http://www.cs.waikato.ac.nz/ml/weka/ 
+
+Books on text mining "Algorithms of the Intelligent Web" by Haralambos Marmanis and Dmitry Babenko http://www.manning.com/marmanis/
+
+ @amandafrench: Hearing about OpenCalais, which will add named entities (people, places, etc.) to text sets: http://www.opencalais.com/ 
+
+new google trainable indexing and mining API for corpora: http://code.google.com/intl/fr/apis/predict #thatcamp
+Google Predict API has been used to check authorship of text 
+
+Lexico3 - text analysis and text stats tool http://www.tal.univ-paris3.fr/lexico/

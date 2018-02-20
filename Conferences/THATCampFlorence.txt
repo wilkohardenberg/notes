@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-03-23T11:43:43.223718
+
+====== THATCampFlorence ======
+Created Wednesday 23 March 2011
+
+[[+WebAnalysingTools4Historians]]
+[[+Omeka]]
+[[+Pinakes]]
+[[+AdvancedZotero]]
+[[+WordPress]]
+[[+Copyright]]
+[[+Crowdsourcing]]
+[[+DatasetVisualization]]
+[[+TextMining]]
+[[+StatsAnalysis]]
+[[+Mapping]]
+[[+Tweets]]
+[[+BootCampFunding]]
+
+
+
+
+
+
+
+

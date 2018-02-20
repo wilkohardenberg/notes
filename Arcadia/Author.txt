@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-04-22T17:20:32+02:00
+
+====== Author ======
+Created Friday 22 April 2011
+
+**Name:** Wilko Graf von Hardenberg
+**Portrait picture:**
+**Affiliation: **Rachel Carson Center, Munich
+**Short-Biography:**
+Wilko Graf von Hardenberg is an environmental historian focusing on socio-political aspects of nature perception and management in modern Europe. He studied history at the University of Torino, Italy and geography at the University of Cambridge. His recent research focuses on the history of nature conservation, management, and rhetoric in the Alps.

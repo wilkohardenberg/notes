@@ -1,0 +1,77 @@
+﻿Firma OTT Kempten – Herstellung von hydrometrische Messgeräte
+
+“Eine Reise durch Technik und Zeit. 125 Jahre OTT” 1998 OTT Messtechnick
+“Die Einführung der elektronischen Datenerfassung und Datenfernübertragung im Pegelwesen” von Friedhelm Günneberg 153-158
+s. 154 “Ohne die Bedenken wegen verstolpeter Inkrementalschritte funktionierte eine Konstruktion von Seibt von 1890, die auf eine modernere Art in den fünfziger Jahre an der Nordsee-Küste realisiert wurde. Zwei 50Hz-Synchronmotörchen bewegten zwei gleiche Kurvenscheiben, bei Null beginnend, bis die Scheibe an der Geberseite einen Kontakt berührte, der den momentanen Wasserstand representierte. Dadurch wurden beide Motörchen abgeschaltet. An der Empfängerseite wurde die Schreibfeder kurz entarretiert, sodaß sie sich von der Kurvensheibe weiterschieben ließ oder zu dieser zurücksprang Die Kurvenscheiben fielen wieder auf Null zurück. Alle Minute wurde dieses Spiel wiederholt. Dabei kam es nur auf die genaue Länge der Einschaltzeit an. Im übrigen mußte das Signal nur gut genug sein, ein winziges Relais einzuschalten und zu halten. Die Wasserstandsverläufe vom Pegel Borkum-Riff, Helgoland und Cuxhaven wurden so mehreren Dienststellen längs der Elbe bis nach Hamburg zugänglich gemacht. Das Hineinwandern von Tidewellen und Sturmflutwellen in die Deutsche Bucht und die Elbemündung war darauf sehr gut zu überblicken”
+
+1880 OTT bei der Expo in Melbourne / noch keine hydrometrischen Geräte
+
+FA012 
+x nr 319 Aufzeichnungen zur Hydrometrie 1904-1953
+
+Notizen Hydrometrie, one volume
+44-46 Vorschlag einer einheitlichen Uhrentype für verschiedene Pegel. Fortseztung von 30-31
+x nr. 314 Wellenmeßpegel Casablanca,  franz. Ministerium der Kolonien  1933-39 (Anleitungen) Mittlerer Wasserstand, Wellenhöhe, jede fünfzigste Welle
+
+6.39 Dr. B.
+"Der Wellenmeßpegel dient zur Untersuchung des Wasserstandsbewegung am Meeresufer. Er hat folgende vier Aufgaben zu erfüllen:
+1.) Aufschreibung der Gezeitenbewegung unter Ausschaltung der Wellen.
+2.) Aufschreibung der Wellenhöhe
+3.) Aufschreibung der Wellenhäufigkeit
+4.) Zählung der Wellen"
+
+x nr 372 Korrespondenz Wilcke – Ott / 1938
+
+- Dr. Ott an Landesanstalt für Gewässerkunde und Hauptnivellements, Berlin
+3. Juni 1938
+Objekte zum aufführen bei Ausstellung in Lübeck
+
+11. Schreibpegel X von Ott mit horizontaler Trommel; mit umkehrschreibwerk und mehrfacher Umschlingung des Schwimmerrades
+12. 2 Stück Wilcke-Pegel
+13. Elektrischer Fernpegel
+
+- "Marineobservatorium - Wilhelmshaven B.Nr. 2652/38 O1G9 Wilhelmshaven 25 April 1938
+an Fa. A. Ott
+
+Betr: Pegel und Pegelfernübertragung
+
+Das Marineobservatorium ist vom Oberkommando der Kriegsmarine damit beauftragt worden, sämtliche bestehenden und künftig bekannt werdenden mechanischen Pegel und Pegelfernübertragungen, die den nachfolgend ausgeführten Bedingungen genügen, planmäßig zu prüfen.
+
+Die Pegel müssen Wasserstände innerhalb eines Bereiches von 10 m mit einer genauigkeit von 1 cm  aufzeichnen; als Maßstab für die Aufzeichnung soll möglichst das Verhältnis 1:20 gewählt werden. Eine Umdrehung der Papiertrommel soll einem Tage entsprechen.
+
+Die Pegelfernübertragungen müssen eine Übertragung der gemessenen Wasserstände innerhalb des gleichen Bereiches und mit der gleichen genauigkeit über eine Entfernung von zunächst mindestens 5 km gewährleisten.
+
+Das Marineobservatorium bittet um Einsendung eines Angebotes mit ausführlichen Unterlagen (Druckschriften) über die von Ihnen gefertigten und in Frage kommenden Geräte. Mechan. Pegel und Pegelfernübertragungen sollen unabhängig voneinander geprüft werden; es wird daher gebeten, diese Geräte auch je für sich anzubieten.
+
+Im Auftrage, gez. Dr Rauschelbach"
+
+nr 338 Sammlung von Firmenschriften – Hydrometrische Strumente und Registrierwerke 1922-25
+nr 086 Katalog Pegelskalen und Schreibpegel in Franz. / 1928
+nr 093 Kat Pegelskalen und Schreibpegel / 1938
+x nr 125 Short review of methods and instruments used in hydrometric gaugins / 1914
+
+It has been recognized for some considerable time that the exact knowledge of the amount of water flowing in rivers is of the greatest importance. In many countries special government departments have been opened up for the object of surveying and determining the water discharge of brooks and rivers. This investigation work repays itself for many reasons. Developments of water powers are carried out in all parts of the globe. The investigation of the extent of this valuable asset of natural resources which a country possesses in its water powers is a point which cannot be too strongly emphasized. A very careful survey of the quantities in its running waters only ensures that the harnessing of the available power is worked in an economical way. Irrigation work, which, especially in tropical countries is now done on a large scale, can only be based on the knowledge of the flow in rivers. Defense work for the protection of river banks in flood times depends on the actual amount of flood water that has to be dealt with, and many other works in the engineering world necessitate in the first place the arrival at the full knowledge of water quantities.
+Many difficulties present themselves in the course of this research work and the majority of surveyors and engineers will be glad to avail themselves of the advice of an expert.
+The following paragraphs are intended to give briefly such advice and to describe the best hydrometric methods and instruments. For more than 30 years our firm has occupied a leading position in this special line. We have gone through the entire recent development in the construction of these instruments, we have gained a vast experience by our won practical research work, and also by being in constant touch with all European hydrometric authorities who use almost exclusively the instruments evolved in our institute.
+
+Kempten (Bavaria), August 1914 A. Ott
+
+x nr 404 Wassermessungen des USA Geological Survey 1927/1928
+
+Pläne und Einzelheiten für Analgen zur Ausführung von Wassermessungen USA Geological Survey --- Darn rivers
+
+mehrere Zeichnungen und Fotos
+
+
+
+	
+Title: Das Pegelwesen in Deutschland : grundsätzliche Betrachtungen zur Meßtechnik, Beschreibung neuer Geräte / von Gerhard Wilcke
+Author: Wilcke, Gerhard
+Corporate body: Baltische Hydrologische Konferenz 6 1938
+Congress: Baltische Hydrologische Konferenz ; 6 : 1938.08.
+Published: 	
+Berlin : Reichsministerium für Ernährung und Landwirtschaft, Landesanst. für Gewässerkunde und Hauptnivellements, 1938
+Extent: 20 S. : Ill., graph. Darst.
+Series: Berichte und Mitteilungen / Baltische Hydrologische Konferenz / Baltische Hydrologische Konferenz. - Berlin, 1938 ; 6.1938, 2, 20 B
+
+

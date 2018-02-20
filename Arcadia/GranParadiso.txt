@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-04-07T08:55:25+02:00
+
+====== GranParadiso ======
+Created Thursday 07 April 2011
+
+**Headline - max. 100 characters (sth. that really draws the reader in)**
+A sanctuary for the ibex: the Gran Paradiso from Royal hunting reserve to national park
+**Article: engaging text on an interesting/important environmental topic, max. 300 words**
+The Gran Paradiso area has historically been at the core of the attempts made by the Piedmontese Royal house to preserve the ibex (Capra ibex). By 1821 the Piedmontese state had forbidden ibex hunting. Nonetheless, poaching went on almost undisturbed on the Gran Paradiso massif, and between 1850 and 1856 King Vittorio Emanuele II decided to establish there a royal hunting reserve, based on a complex system of tenancies with private landowners. This act saved Alpine ibex from extinction: all current ibex populations in the Alps, in fact, stem from this original stock. 
+In September 1919 King Vittorio Emanuele III offered to donate the hunting reserve to the Italian state. The creation of a national park was however delayed until the end of 1922, when the new Fascist regime decided, as an act of propaganda, to support its institution as the first Italian national park. This delay transformed the former hunting reserve into a sort of no-man’s-land, a veritable paradise for poachers. Ibex and chamois (Rupicapra rupicapra) hunters, dressed in military outfit and armed with machine guns, were a common sight within the park before 1922. 
+Moreover, the institution of the park raised a number of ongoing conflicts with the local communities entitled to hunting rights outside the King’s former private properties. These rights, in fact, were dismissed without right for compensation. Further conflicts took place between those planning a park aimed at the promotion of mountain tourism following the so-called American model and those supporting the institution of a veritable "ibex sanctuary", a park aimed at pure conservation and scientific research following the Swiss model. In the end the Gran Paradiso National Park was set up as a compromise solution, where tourism and conservation could somehow coexist.
+**Recommended Readings: suggest up to 5 complete references to related literature**	
+Graf von Hardenberg, Wilko. “Act local, think national: a brief history of access rights and environmental conflicts in Fascist Italy.” In //Nature and History in Modern Italy//, by Marco Armiero and Marcus Hall (eds.), 141-158. Athens: Ohio University Press, 2010.
+Passerin d’Entrèves, Pietro. //Le Chasses Royales in Valle d’Aosta (1850-1919)//. Torino: Umberto Allemandi, 2000.
+Piccioni, Luigi. //Il volto amato della Patria. Il primo movimento per la conservazione della natura in Italia, 1880-1934.// Camerino: Università degli Studi di Camerino, 1999.
+Sievert, James. //The Origins of Nature Conservation in Italy//. Bern: Peter Lang, 2000.
+**Related Links: suggest up to 5 links to related external websites**
+//Il Parco Nazionale del Gran Paradiso, costituito per la conservazione della fauna e della flora delle riserve reali di caccia//. Vol. 136. Cinegiornale Luce. R.C.A. Photophone, 1932. http://is.gd/granparadiso
+Homepage of the Parco Nazionale del Gran Paradiso http://www.pngp.it/
+**Short Description of your entry: to appear as a search result, max. 255 characters**
+Since the 19th century the Italian Royal house has been active in the preservation of the Alpine ibex. The Gran Paradiso, first as a hunting reserve and then as a national park, has thus long been the last refuge in the Alps for this iconic animal.
+**Keywords: please suggest up to 5 keywords to help users locate your entry**
+Conservation, conflict, hunting, ibex, extinction
+**Themes: please select the 1-3 most relevant themes to your entry:**
+Resources (incl. Energy); Environmental Politics, Environmental Law/Regulation; Infrastructure (Transport/Mobility); Biodiversity;  
+**Spatial Coverage: if applicable, please provide an associated place name or area** 
+Gran Paradiso (mountain), Valle d'Aosta (region), Piemonte (region), Italy (country)
+
+**Photos**
+Photo of the Gran Paradiso peak: http://commons.wikimedia.org/wiki/File:Gran_Paradiso.jpg
+Map of the Gran Paradiso National park, adapted from Daynè, Corrado Vittorio. //Lo Parc: profili storici e giuridici del Parco Nazionale del Gran Paradiso//. Aosta: E. Duc, 1980. (I assume this to be fair use)
+Hunting Trophy of VEII Festa Enrico (1933) Lo stambecco delle Alpi. Le Vie d’Italia, 8:601-08 (I've been told by the publisher - Touring Club Italiano - that the photographs extracted from the historic issues of their journal may be considered in the public domain)
+Excerpt photo Beyer Festa Enrico (1933) Lo stambecco delle Alpi. Le Vie d’Italia, 8:601-08
+Foto Cacce Reali http://www.regione.vda.it/gestione/sezioni_web/immagine.asp?pk_immagine=1049 (The Regione Val d'Aosta will provide us publishing rights for this photo as soon as I can provide more data about the website)
+
+
+

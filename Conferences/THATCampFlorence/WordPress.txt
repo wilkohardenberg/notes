@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-04-07T00:44:41+02:00
+
+====== WordPress ======
+Created Thursday 07 April 2011
+
+WP easy enough to allow a scholar to learn it w/out too much hassle
+
+CMS (dBase) easier than Dreamweaver because the dBase makes it more powerful (allow to change a word in the websote only once and have it changed everywhere)
+
+→ extensibility (humanist philosophy) → plugins leads it to be very customizable and it assumes WP doesn't know everything
+
+Some unis see WP as a security risk because if you do not update regularly there are security risks.
+
+http://www.godaddy.com webhost [I need a new webhost with multisites]
+
+Designing themes is for reputation, practice, giving back to the community
+Need and want to learn CSS hacking
+
+CiteThis blog postplugi → scholarly citations
+— Citethis
+— ZotPress
+
+PHP → programming language needed to write plugins
+
+— BrokenLinkChecker
+
+Quantity and quality of plugins may slowdown WP
+→ COiNS makes your blog readable by zotero
+→ WP-Print 
+
+#MULTISITES
+#journal.n&n.eu
+#what about sites with different domains
+
+→ commentpress or digress.it
+
+#would it be possible to embed paper.li in wordpress?
+#add a donate feature for N&N???
+
+Omeka not very good for texts → but perfect for images

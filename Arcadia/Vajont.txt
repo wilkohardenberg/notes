@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-04-04T01:07:42+02:00
+
+====== Vajont ======
+Created Monday 04 April 2011
+
+**Headline - max. 100 characters (sth. that really draws the reader in)**
+Expecting the disaster. The landslide of the Vajont dam.
+**Article: engaging text on an interesting/important environmental topic, max. 300 words**
+On October 9, 1963, at 10:39 pm 260 million cubic metres of rock detached from the top of Monte Toc, on the border between Veneto and Friuli Venezia Giulia, and glided into the reservoir of the Vajont Dam, producing an enormous wave of at least 50 million cubic metres of water. The dam, completed in 1959 and one of the biggest in the world at the time, did not suffer any serious damage but the overtopping water wiped out several villages in the valley and killed almost 2,000 people. A third of the population of Longarone, the greatest village downstream of the dam, was killed on this occasion. 
+Immediately the disaster became a topic of political struggle in the mediascape. Conservative newspapers depicted the event as merely natural and completely unavoidable event: the message was that the dam and its builders had no responsibilities since it had resisted the impact of the landslide. On the other hand opposition newspapers hinted to the fact that the disaster could have been avoided and that it was mainly caused by human carelessness. 
+The dam, considered to be at the forefront of technical expertise, had however been built without considering worrying geological reports, possible tectonic problems, local knowledge and Monte Toc's connaturate instability: already in 1960, just after the end of the building works, small landslides had been experienced. The fear that Monte Toc could collapse was common in the area. Moreover, the builders and managers had been guiltily inattentive to soil conservation and had filled the reservoir way over the security level. The reasons of technical expertise and of finance and a blind faith in development had had the overhand in respect to a real consideration of the environmental conditions of the valley and to care for human lives.
+**Recommended Readings: suggest up to 5 complete references to related literature**
+Merlin, Tina. //Sulla pelle viva : come si costruisce una catastrofe : il caso del Vajont//. 4th ed. Caselle di Sommacampagna (Verona): Cierre, 2001.
+Paolini, Marco. //The story of Vajont//. Boca Raton Fla.: Bordighera, 2000.
+Reberschak, Maurizio, ed. //Il grande Vajont//. Sommacampagna (Verona): Cierre Ed., 2003.
+Reberschak, Maurizio, and Ivo Mattozzi, eds. //Il Vajont dopo il Vajont : 1963-2000//. Venezia: Marsilio, 2009.
+Saba, Andrea Filippo. "Le dighe". //Passato e Presente //82, 2011:32-37
+**Related Links: suggest up to 5 links to related external websites**
+http://www.vajont.net/
+Epic Vajont Dam Disaster, Italy, 1963: Manmade or Natural? Biot Report #373: June 17, 2006 http://www.semp.us/publications/biot_reader.php?BiotID=373 Accessed: 2011-04-22. (Archived by WebCite® at http://www.webcitation.org/5y8bd9Ztu)
+Paolini, Marco, //Il racconto del Vajont, //Part 1/16 http://www.youtube.com/watch?v=x9O4XcdMgpE Accessed: 2011-04-22. (Archived by WebCite® at http://www.webcitation.org/5y8bflPbx)
+http://www.youtube.com/watch?v=uqkFXm2HtMA&feature=related Video animation of the Vajont Dam disaster
+**Short Description of your entry: to appear as a search result, max. 255 characters **
+The landslide that on October 9 1963 fell into the reservoir of the Vajont Dam created a wave that destroyed several villages in the valley killing about 2,000 people. Human responsibilities in the apparently natural disaster have been debated ever since.
+**Keywords: please suggest up to 5 keywords to help users locate your entry**
+Dam, landslide
+**Themes: please select the 1-3 most relevant themes to your entry:**
+Natural Disasters;  
+**Spatial Coverage: if applicable, please provide an associated place name or area**
+Monte Toc (mountain), Longarone (village), Belluno (province), Pordenone (province), Veneto (region), Friuli Venezia Giulia (region), Italy (country)

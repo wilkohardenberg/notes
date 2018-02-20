@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-05-07T00:07:12+02:00
+
+====== Resoconto ======
+Created Saturday 07 May 2011
+
+**Reperimento delle informazioni online**
+All'inizio della lezione è stato chiesto agli studenti di installare il browser [[http://www.mozilla.com/it/firefox/|Firefox]] e l'add-on bibliografico [[http://www.zotero.org|Zotero]] (un tutorial è reperibile [[http://www.zotero.org/support/it/start|qui]], in caso di problemi o dubbi particolari si può fare riferimento anche agli ottimi [[http://forums.zotero.org/categories/|Forum]]).
+
+Sono state poi descritte le caratteristiche di base di Zotero: gestione delle bibliografie, salvataggio automatico di  riferimenti bibliografici da fonti online e numeri ISBN, pubblicazione di citazioni in Word/OpenOffice.
+
+Tra le risorse bibliografiche online essenziali sono state elencate [[http://www.worldcat.org/|WorldCat,]] l'[[http://opac.sbn.it|OPAC SBN]], l'[[http://www.archive.org/|Internet Archive]] (utile anche perchè conserva un archivio di siti internet storici) e il [[http://promo.net/pg|Progetto Gutenberg.]]
+
+É stata poi sottolineata l'importanza di usare in maniera accorta i motori di ricerca (p.es. Google) ricordandosi di usarne sempre tutte le funzioni, come per esempio la ricerca avanzata, con cui si possono escludere alcuni termini dalla ricerca, includere ricerche per argomento, dare un peso maggiore a determinati termini rispetto ad altri, limitare la ricerca a certi tipi di file, o a certe date, o a certi luoghi o a certi siti. Per facilitare l'attività di ricerca agli studenti è stato anche consigliato di installare in Firefox l'add-on [[http://www.deeperweb.com/opensearch.xml|DeeperWeb,]] che permette di creare ricerche avanzate in corso d'opera sulla base di tag cloud dei concetti più frequenti in relazione a quelli cercati
+
+Per facilitare il processo di ricerca è possibile in Firefox aggiungere motori di ricerca a quelli canonici (Google, Yahoo, Bing) inclusi nella casella di ricerca in alto a destra. Di seguito si danno i link diretti alle relative estensioni per Firefox:
+WorldCat http://www.worldcat.org/toolbars/default.jsp
+Internet Archive https://addons.mozilla.org/en-US/firefox/addon/14434
+Progetto Gutenberg https://addons.mozilla.org/en-US/firefox/addon/9173
+
+Anche i blog, soprattutto grazie agli [[http://en.wikipedia.org/wiki/RSS|RSS]] e a Twitter (che permettono di venire aggiornati in maniera costante sugli ultimi articoli pubblicati), sono uno strumento essenziale per lo storico del ventunesimo secolo per restare al passo degli sviluppi disciplinari, metodologici e storiografici, per scoprire nuovi libri e persino nuovi campi di ricerca. Gli studenti sono stati invitati ad esplorare l'elenco di blog storici ospitato da [[http://hnn.us/blogs/entries/9665.html|Cliopatria,]] alla ricerca di qualche blog che possa essere di loro interesse. 
+
+Per quanto riguarda la ricerca di fonti primarie e di documenti digitalizzati online è stato presentato il sito [[http://primary-sources.eui.eu|European History Primary Sources]] dell'Istituto Universitario Europeo di Fiesole. Agli studenti è stato chiesto di esplorare il sito alla ricerca di materiale rilevante ai loro studi e di procedere alla registrazione al sito in modo da poter salvare i segnalibri relativi al materiale individuato. É stato anche fatto accenno alla [[http://vlib.iue.it/history/index.html|WWW Virtual Library of History]], un repertorio di siti di interesse storiografico a livello globale.
+Come ulteriori fonti di materiale digitale sono stati poi presentati sinteticamente [[http://www.europeana.eu|Europeana]], [[http://footnote.com|Footnote.co]]m e l'[[http://www.library.illinois.edu/hpnl/newspapers/historical.php|indice di giornali digitalizzati]] ospitato dall'università dell'Indiana.

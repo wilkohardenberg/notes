@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-03-23T18:12:28.131706
+
+====== Pinakes ======
+Created Wednesday 23 March 2011
+
+[[http://www.rinascimento-digitale.it/pinakes3.phtml|pinakes website]]
+
+It is a whole suite of applications
+PkAdmin can be used to create the schema of an ontological model
+PkInput populate onto model
+PkQuery makke questions to onto mofdel
+Repository stores data about onto models
+
+Ontologies: explicit formalizations of shared conceptualisation --> technology to represente knowledge
+they may be compared with relational dbases
+
+Upper ontology --> only very hgh concepts shared by many domains
+Domain ontology --> domain-specific 
+Applicatioon ontology --> very specific
+
+Ontology languages: URI, XML, RDF, OWL
+
+The components of an ontoloy are classes and predicates (relation between classes) 
+# It occurs to me that I've already done all this last year in Dublin, the question is where I've left those notes
+
+useful to give a formal representation of a text -->  from image to transcription
+in fact transcription usually loses format (transverse writing/underlining/special signs usw. --> paratesto)
+
+@amandafrench 6:46pm via Seesmic twhirl - Looking only at ontology, Pinakes seems a decent database-backed alternative to TEI for manuscripts. Haven't seen interface, tho. #thatcamp
+
+Different from TEI
+
+It is an autonomous ontology, built from scratch (felt it was the faster option) --> portability to other onyologies is planned
+
+You use annotations to describe/conceptualize fragments of texts
+The same ontology is used in various projects / and the model can be extended / what is the same is the approach
+
+the interface will probably be usable in a few months!!!
+Users need to know something about ontologies!
+
+
+
+

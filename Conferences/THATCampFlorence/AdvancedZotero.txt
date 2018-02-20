@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-03-24T09:43:22.900908
+
+====== AdvancedZotero ======
+Created Thursday 24 March 2011
+
+[[http://zotero.org/download/plugins/zoteromaps-1.0.10.xpi|ZoteroMaps]] able to map places of publication or cited in the attachments. (may be able to look for coordinates, maybe you will have to add them in place field or in a custom field [may come with future architecture of Zotero])
+
+by now there is a zotero collection embedding plugin for :Colloquia:THATCampFlorence:WordPress --> ScholarPress Researcher (maybe not yet publicly available --> on clioweb's GitHub
+
+ScholarPress Workshop lets you create Zotero items w/out using Zotero: for example to gather papers for a workshop cfp (but not only: modifying the plugin it is possible to gather any kind of Zotero Item
+
+there are tabs to create your own APIKey and there are keys for specific collections
+
+Timeline seems a very powerful tool to have a glance at the chronological distribution of your sources (whole library or single collections) --> and highlight specific parts of it.
+
+You can highlight text and make annotations from Zotero
+
+Excellent Firefox annotation extension: [[http://www.libertexto.org/|LiberTexto]] --> cooperation with Zotero is planned (it even can annotate pdfs) currently works only on Firefox 3.x
+
+Duplicates? resolving dupliocates is one of the biggest projects they are working at the moment
+

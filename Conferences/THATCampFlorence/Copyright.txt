@@ -1,0 +1,73 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-03-24T11:40:59.799607
+
+====== Copyright ======
+Created Thursday 24 March 2011
+
+Intellectual Property confers monopoly rights
+- Industrial property
+- Literary and artistic property
+-- Copyright / author rights
+difference author rights to protect original work / copyright for other kinds of intellectual prods
+performances of singers and actors: 50 yrs after first 
+phonogram/videogram: 50 years after first pub
+broadcats: 50 yrs after first broadcast
+-- Author's rights (continental civil law)
+different from copyright (common law), but often used in the same meaning
+protects all literary and artistic and creative works (including software and dbases)
+must be determinable and original in creation
+
+Protection not subjected to registration/filing or use of particular indication like (c) 
+
+Patrimonial rights (rights of exploitation that can be transferred by contract)
+Representation/Reproduction/Adaptation/Resale/Rental
+70 yrs after death of the author / then released into **public domain**
+
+Moral rights
+Disclosure(to the public)/Paternity/Integrity(protection from unauthorised changes)/Retraction&withdrawal(disagree with what was said and withdraw from circulation
+**perpetual/non-transferable/imprescriptible**
+
+dbase protection covers whole dbases in case of extraction of a subset, not single piece of data
+Conditions: requires producer assuming the investment risk and substantial investement
+Prevents any substantial quantitative or qualitative extraction of data
+
+If authorisation is free of charge it should be indicated
+Perpetual authorisation is not allowed, max until the expiration of the rights
+
+anything beside scope of auth is subject to new request
+ending permission may be difficult to renew
+
+**Exceptions**
+short quotations of **text** is always permitted (not allowed for audiovisual and graphic)
+reproduction of short fragments for educational and scientific research (only non commercial purposes, as long as source is indicated) excluding audiovisual and graphic (not possible e.g. to show broadcast in class)
+reporting of current events: reproduction and communication to the public for information purposes (also for plastic works)
+
+difference between short quotation and fragment (fragment is longer)
+
+also allowed
+extracts of public lectures
+reproduction of works located in public places when they are not main subject
+offical acts issued by public authorities
+private/backup copies
+caricatures
+
+reproduction for the benefit of people with disabilities (non commercial purpose)
+reproduction by publicly accessible libraries and educational aestablishments to preserve heritage (limited to the works of the institution, but not **online**)
+Temprary acts of reproduction (incidental like cache or temp files, if they are essential part of tech processes)
+
+---
+right for everyone to protect their image (except representation of people giving a speech)
+what about people who has been photographed in say the 1920s?
+
+need also permission of architect to reproduce image of building built less than 70 yrs after its death (???)
+
+---
+
+how to use other sources: seems self evident what you need (reason/reference to docs/necessary rights/duration/location(country/Europe/world if on Internet)
+
+an email is fine to give permission (oral not alas)
+
+
+
+

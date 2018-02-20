@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-04-04T01:24:28+02:00
+
+====== Attachments ======
+Created Monday 04 April 2011
+
+[[~/Dropbox/Arcadia/Arcadia_Hohensinner_Machland_final.pdf|Example]] 
+[[~/Dropbox/Arcadia/Arcadia Template_kc_vw_ag.doc|Template]] 

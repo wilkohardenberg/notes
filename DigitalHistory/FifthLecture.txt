@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-05-19T21:50:04+02:00
+
+====== FifthLecture ======
+Created Thursday 19 May 2011
+
+http://www.freesoftwaremagazine.com/articles/genealogy_with_gramps
+http://www.gramps-project.org/wiki/index.php?title=Gramps_3.3_Wiki_Manual
+http://portableapps.com/apps/education/gramps_portable
+
+http://downloads.thehumanjourney.net/portablegis_setup_v2.exe
+
+http://taporware.ualberta.ca/
+http://voyeurtools.org
+
+http://gramps-project.org/wiki/index.php?title=DescendantsLines
+
+http://gramps-project.org/wiki/index.php?title=Running_a_development_version_of_Gramps
+http://www.gedscape.com
+
+http://batchgeo.com
+
+

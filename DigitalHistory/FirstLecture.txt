@@ -1,0 +1,196 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-04-22T17:58:12+02:00
+
+====== FirstLecture ======
+Created Friday 22 April 2011
+
+Quali sono le vostre conoscenze di base?
+Quali strumenti informatici usate abitualmente?
+In quali vi ritenete più ferrati?
+
+Cos'è la "digital history"?
+Sostanzialmente è un ambito difficile da definire: si tratta dell'uso di strumenti informatici per facilitare l'analisi dei documenti, la loro gestione, e la pubblicazione dei risultati da parte degli storici. However, it is possible to identify general characteristics and write a working definition. 
+
+Digital history is an approach to examining and representing the past that works with the new communication technologies of the computer, the Internet network, and software systems. On one level, digital history is an open arena of scholarly production and communication, encompassing the development of new course materials and scholarly data collections. On another, it is a methodological approach framed by the hypertextual power of these technologies to make, define, query, and annotate associations in the human record of the past. To do digital history, then, is to create a framework, an ontology, through the technology for people to experience, read, and follow an argument about a historical problem.
+
+Digital history scholarship also encourages readers to investigate and form interpretive associations of their own. That might be the defining characteristic of the genre. Readers are not presented with an exhibit, or an article with appendices, or any other analog form simply reprocessed into the Web format. (For a glossary of the technical terms that appear in boldface, see appendix.) Instead, they are presented with a suite of interpretive elements, ways to gain leverage on the problem under investigation.
+
+Digital history possesses a crucial set of common components—the capacity for play, manipulation, participation, and investigation by the reader. Dissemination in digital form makes the work of the scholar available for verification and examination; it also offers the reader the opportunity to experiment. He or she can test the interpretations of others, formulate new views, and mine the materials of the past for overlooked items and clues. The reader can immerse him/herself in the past, surrounded with the evidence, and make new associations. The goal of digital history might be to build environments that pull readers in less by the force of a linear argument than by the experience of total immersion and the curiosity to build connections. (Versus the narrative anticipation of what comes next, this is a curiosity about what could be related to what and why.)
+
+Digital history represents a democratization of history in that anyone with access to the Internet can have their voice heard, including marginalized groups which were often excluded in the 'grand narratives' of nation and empire. In contrast to earlier media formats, digital history texts tend to be non-linear and interactive, encouraging user participation and engagement. Digital history is studied from various disciplinary perspectives and in relation to a range of interrelated themes and activities. The field includes discussion of: archives, libraries, and encyclopedias; museums and virtual exhibits; digital identity and biography; digital games and virtual worlds; online communities and social networks; Web 2.0; and e-research and cyber-infrastructure. 
+
+//Digital history shares some qualities with the museum exhibit—its constituent parts are arranged, text is often minimal or “chunked,” visitors can walk through the space, visitors have some choice over where to go and what to see. In this sense the experience is participatory and spatial.//
+
+//New Archives/New Inquiry: Digital resources are expanding and redefining the archival base for most fields and thereby redefining the fields themselves. (This is driven more by libraries and the tech industry than by historians.) My initial interest in things digital grew from developing a database to piece together fragmentary sources obscure people had left behind in multiple archives; the approach was not new, but the scale of the project I could imagine as an individual graduate student was. Linda Colley’s latest book, The Ordeal of Elizabeth Marsh—trumpeted in reviews as a “new” approach to biography—is a recent example. The book is not new in its recovery of an ordinary life as a window on a world. (Laurel Thatcher Ulrich showed us that in 1990.) But its ability to encompass the globe is new; Colley credits new media resources with making the project possible.[11]//
+
+//Audience: New bridges between academic and popular/public history.//
+
+//Collaboration: A source of excitement and perhaps peril. The best digital projects are collaborative, involving multiple scholars and a technical team, and ideally an institution committed to keeping the project alive after its creators move on to other things. This is, I think, a great way to work. It is not, however, one for which history as a discipline has established institutional resources. //
+
+Piuttosto che una disciplina autonoma si tratta di una essenziale "cassetta degli attrezzi" necssaria allo storico a fare il suo mestiere nel ventunesimo secolo. Non tutto ovviamente deve essere utilizzato ( e del resto neanche della cassetta degli attrezzi tradizionale paleografia, numismatica, cartografia storica, e altre discipline ancillari tutti gli storici fanno uso sempre in maniera indiscriminata). Ma è utile, citando Bloch, che lo storico abbia almeno un'infarinatura di tutti gli strumenti a sua disposizione. Ognuno sceglie in base ai suoi bisogni e alle necessità della sua ricerca.
+
+I’m skeptical of the lasting value of “digital history” as a term—it either will end up meaning too much or too little and pretty soon will be so inescapable (in twenty years, will anyone do professional work in history without involving what we’re talking about?) as to provide little purchase on anything specific enough for a course, workshop, or blog. Quantitative history, for example, has come and gone, as a defining rubric—in part because it has won, and many historians routinely and effectively deal with quantitative data when they want to or need to in a fluid and responsive inquiry-driven way.
+
+Questo corso intende offrirvi la possibilità di scegliere gli strumenti più adatti ad essere degli storici nel ventunesimo secolo.
+
+Digital methods in historical research offer new ways to record, communicate and preserve documents, artifacts and knowledge of the past. However, there are challenges. These include: developing efficient ways to determine the authority and authenticity of digital content; shifting from long established archival preservation systems designed for earlier media formats to using relatively unstable digital preservation formats and standards; and ensuring better accessibility for those who lack access to the technology due to age-related or socio-economic disadvantage. Many online history projects facilitate large-scale conversations (one-to-one, one-to-many and many-to-many), producing new kinds of distributed 'texts'. Further research is required to understand the significance of these texts for historical studies. Narrative forms continue to be central to history in digital environments, even as experiments in nonlinearity challenge and extend conventional boundaries and understandings of narrative. "Digital history could be both a catalyst and a tool in the creation of a more literary kind of history," Ayers wrote in his landmark essay 'The Pasts and Futures of Digital History'.
+
+Tra gli argomenti che verranno affrontati ci sono il reperimento di informazioni online, la strutturazione di bibliografie elettroniche e di database archivistici, l'analisi spaziale e statistica e la pubblicazione e divulgazione dei risultati e dei documenti
+
+- Reperire le informazioni in rete
+- Nuove fonti per la storia: crowdsourcing, digitalizzazione, metadati
+- Strutturare bibliografie e archivi digitali
+- Strumenti per l'analisi spaziale e statistica
+- La visualizzazione delle informazioni
+- Copyright, copyleft, Creative Commons: deontologia e diritti di pubblicazione
+- La pubblicazione dei risultati online
+
+Nel corso delle lezioni adatteremo poi l'andamento del corso alle vostre necessità e ai vistri feedback. Essenzialmente voglio che questo corso sia utile a voi e che alla fine siate davvero in grado di usare alucni degli strumenti che vi presenterò.
+
+È per questo che la valutazione finale del corso si baserà su un vostro progetto di digital history. Vi verrà chiesto di realizzare un prodotto ( un database, una bibliografia, un sito, o altro) e la relativa documentazione del processo con cui l'avete costruito. La valutazione finale si baserà sulla discussione del progetto e della documentazione.
+
+I prod students to ask questions similar to those one might ask for a book project: 
+What is the overall intent of the project? 
+What is the genre of the digital resource you envision—an archive for other researchers, a learning module, a collaborative space? 
+Who is your audience (K–12, scholars, the general public) and how will you tailor the Web site or digital tool to their needs and expectations? 
+What else has been done (online and off) with respect to your project, and how will your project differ?
+
+http://www.journalofamericanhistory.org/issues/952/interchange/index.html
+http://biblio.lett.unitn.it/lezioInternet.htm
+http://www.thatcampflorence.org/page/2/
+
+10 Things That Humanities Researchers Want
+April 18, 2011 8:53 AM
+
+The Research Information Network recently released a report on how humanities researchers do their work. The findings of this study are particularly interesting for Europeana Libraries, since we hope that the content gathered through our project will reach this key target group.
+
+The report, Reinventing Research? Information Practices In The Humanities is available online (www.rin.ac.uk/humanities-case-studies). I also went to the launch event in London, and noted down some of the key points that Humanities researchers said they are looking for in a good web resource.
+
+#1. Make It Easy To Use – Researchers will be turned off if they have to work too hard to find and access the information. They are accustomed to using sites such as Google (79% use Google as the starting point to locate relevant research, according to the study) and they expect the resources they find to be as intuitive as Google to use. In addition to making a basic search easy to perform, we may also want to consider some function to help make people aware of various spellings of words throughout history, for example.
+
+#2. Make It Easy To Cite – There is still a reluctance to cite digital resources. Researchers will often use a digital resource but then cite the paper copy in their notes. However, researchers are much more likely to cite the digital resource if:
+
+    There is a copy-and-paste citation beside the object 
+    The URL is short and sweet; don't let it stretch to 4 lines or be full of garble!
+
+#3. Put It In Their Workflow – We can’t expect researchers to check in regularly to see if an object has been digitised or added to our collection. We must go to them; ensuring that our resources are indexed by Google and listed in library catalogues. We may also want to consider using social media as a way to reach out to humanities researchers.
+
+#4. Provide Clarity on Objects and Processes – Researchers want to know exactly what they are looking at, and current online research resources don’t always make this clear. They want to know, for example:
+
+    The version of the object and ideally be able to directly compare between versions (DIAMM http://www.diamm.ac.uk was mentioned as a good example of a resource that allows comparison).
+    How it was created. In particular, they want to know if texts have been digitised using OCR techniques. If there were editors or translators, they want to know the identities of these people.
+    The physical details of the object. If it is a manuscript, for example, what type of paper is it printed on? Is there damage to it?
+    Why something was digitised or, perhaps more importantly, what could have been digitised but wasn’t? Why was one object or collection included in the digital resource and not another?
+
+#5. Build A Community – Bricks and mortar libraries are not simply a place to conduct research, but also a place to network. The same can be said of conferences and seminars.  “It’s not just the resource, it’s the community,” said one participant. There was general agreement that research websites should include some kind of community aspect; perhaps discussion forums or a way for people to link an object with a finished paper. Providing a way for researchers to link to their work has several functions:
+
+    It gives publicity to the researcher.
+    It allows other users to see work that has already been done on that object.
+    It helps to build a network.
+
+#6. Provide Research Support – Websites often give technical support and guides for using their resources but fail to show how their material is actually being used. Humanities researchers at the conference said they find real-life case studies as helpful as technical guides. We should interview and feature people using the site, showing the step-by-step process of how they did their research, and the resource they put together.
+
+#7. Make The Information Easily Reusable – Researchers want to reuse and analyse data in the format that suits them. The research resource http://www.zotero.org was mentioned by one professor as a critical link in the researcher’s workflow. Students especially want the ability to export data from a resource to Zotero.
+
+#8. Offer Ways To Visualize Collections – A simple search should be the overall priority, but to do a search you have to know what you are looking for. Some researchers want to start by exploring and conceptualising a collection through features such as maps, timelines and word lists. We need to provide ways to go beyond the simple search, while still using methodologies that researchers know and trust.
+
+#9. Think About Linked Data – This is still a relatively new concept for Humanities researchers but there is interest in it. We need the ability to link data and we need senior researchers to take the lead and show us how to do it (perhaps tying into the need for case studies; see point #6).
+
+#10. Provide A Critical Mass of Content – To really engage researchers, we need a critical mass of content in our chosen subject areas; not just scattered objects.
+
+http://valley.lib.virginia.edu/ The Valley of the Shadows early example in dighist and histgis
+http://www.playthepast.org/
+
+Cos'è la "digital history"?
+Sostanzialmente è un ambito difficile da definire: si tratta dell'uso di strumenti informatici per facilitare l'analisi dei documenti, la loro gestione, e la pubblicazione dei risultati da parte degli storici. However, it is possible to identify general characteristics and write a working definition. 
+
+Digital history is an approach to examining and representing the past that works with the new communication technologies of the computer, the Internet network, and software systems. On one level, digital history is an open arena of scholarly production and communication, encompassing the development of new course materials and scholarly data collections. On another, it is a methodological approach framed by the hypertextual power of these technologies to make, define, query, and annotate associations in the human record of the past. To do digital history, then, is to create a framework, an ontology, through the technology for people to experience, read, and follow an argument about a historical problem.
+
+Digital history scholarship also encourages readers to investigate and form interpretive associations of their own. That might be the defining characteristic of the genre. Readers are not presented with an exhibit, or an article with appendices, or any other analog form simply reprocessed into the Web format. (For a glossary of the technical terms that appear in boldface, see appendix.) Instead, they are presented with a suite of interpretive elements, ways to gain leverage on the problem under investigation.
+
+Digital history possesses a crucial set of common components—the capacity for play, manipulation, participation, and investigation by the reader. Dissemination in digital form makes the work of the scholar available for verification and examination; it also offers the reader the opportunity to experiment. He or she can test the interpretations of others, formulate new views, and mine the materials of the past for overlooked items and clues. The reader can immerse him/herself in the past, surrounded with the evidence, and make new associations. The goal of digital history might be to build environments that pull readers in less by the force of a linear argument than by the experience of total immersion and the curiosity to build connections. (Versus the narrative anticipation of what comes next, this is a curiosity about what could be related to what and why.)
+
+Digital history represents a democratization of history in that anyone with access to the Internet can have their voice heard, including marginalized groups which were often excluded in the 'grand narratives' of nation and empire. In contrast to earlier media formats, digital history texts tend to be non-linear and interactive, encouraging user participation and engagement. Digital history is studied from various disciplinary perspectives and in relation to a range of interrelated themes and activities. The field includes discussion of: archives, libraries, and encyclopedias; museums and virtual exhibits; digital identity and biography; digital games and virtual worlds; online communities and social networks; Web 2.0; and e-research and cyber-infrastructure. 
+
+Digital history shares some qualities with the museum exhibit—its constituent parts are arranged, text is often minimal or “chunked,” visitors can walk through the space, visitors have some choice over where to go and what to see. In this sense the experience is participatory and spatial.
+
+New Archives/New Inquiry: Digital resources are expanding and redefining the archival base for most fields and thereby redefining the fields themselves. (This is driven more by libraries and the tech industry than by historians.) My initial interest in things digital grew from developing a database to piece together fragmentary sources obscure people had left behind in multiple archives; the approach was not new, but the scale of the project I could imagine as an individual graduate student was. Linda Colley’s latest book, The Ordeal of Elizabeth Marsh—trumpeted in reviews as a “new” approach to biography—is a recent example. The book is not new in its recovery of an ordinary life as a window on a world. (Laurel Thatcher Ulrich showed us that in 1990.) But its ability to encompass the globe is new; Colley credits new media resources with making the project possible.[11]
+
+Audience: New bridges between academic and popular/public history.
+
+Collaboration: A source of excitement and perhaps peril. The best digital projects are collaborative, involving multiple scholars and a technical team, and ideally an institution committed to keeping the project alive after its creators move on to other things. This is, I think, a great way to work. It is not, however, one for which history as a discipline has established institutional resources. 
+
+Piuttosto che una disciplina autonoma si tratta di una essenziale "cassetta degli attrezzi" necssaria allo storico a fare il suo mestiere nel ventunesimo secolo. Non tutto ovviamente deve essere utilizzato ( e del resto neanche della cassetta degli attrezzi tradizionale paleografia, numismatica, cartografia storica, e altre discipline ancillari tutti gli storici fanno uso sempre in maniera indiscriminata). Ma è utile, citando Bloch, che lo storico abbia almeno un'infarinatura di tutti gli strumenti a sua disposizione. Ognuno sceglie in base ai suoi bisogni e alle necessità della sua ricerca.
+
+I’m skeptical of the lasting value of “digital history” as a term—it either will end up meaning too much or too little and pretty soon will be so inescapable (in twenty years, will anyone do professional work in history without involving what we’re talking about?) as to provide little purchase on anything specific enough for a course, workshop, or blog. Quantitative history, for example, has come and gone, as a defining rubric—in part because it has won, and many historians routinely and effectively deal with quantitative data when they want to or need to in a fluid and responsive inquiry-driven way.
+
+Questo corso intende offrirvi la possibilità di scegliere gli strumenti più adatti ad essere degli storici nel ventunesimo secolo.
+
+Digital methods in historical research offer new ways to record, communicate and preserve documents, artifacts and knowledge of the past. However, there are challenges. These include: developing efficient ways to determine the authority and authenticity of digital content; shifting from long established archival preservation systems designed for earlier media formats to using relatively unstable digital preservation formats and standards; and ensuring better accessibility for those who lack access to the technology due to age-related or socio-economic disadvantage. Many online history projects facilitate large-scale conversations (one-to-one, one-to-many and many-to-many), producing new kinds of distributed 'texts'. Further research is required to understand the significance of these texts for historical studies. Narrative forms continue to be central to history in digital environments, even as experiments in nonlinearity challenge and extend conventional boundaries and understandings of narrative. "Digital history could be both a catalyst and a tool in the creation of a more literary kind of history," Ayers wrote in his landmark essay 'The Pasts and Futures of Digital History'.
+
+Tra gli argomenti che verranno affrontati ci sono il reperimento di informazioni online, la strutturazione di bibliografie elettroniche e di database archivistici, l'analisi spaziale e statistica e la pubblicazione e divulgazione dei risultati e dei documenti
+
+- Reperire le informazioni in rete
+- Nuove fonti per la storia: crowdsourcing, digitalizzazione, metadati
+- Strutturare bibliografie e archivi digitali
+- Strumenti per l'analisi spaziale e statistica
+- La visualizzazione delle informazioni
+- Copyright, copyleft, Creative Commons: deontologia e diritti di pubblicazione
+- La pubblicazione dei risultati online
+
+Nel corso delle lezioni adatteremo poi l'andamento del corso alle vostre necessità e ai vistri feedback. Essenzialmente voglio che questo corso sia utile a voi e che alla fine siate davvero in grado di usare alucni degli strumenti che vi presenterò.
+
+È per questo che la valutazione finale del corso si baserà su un vostro progetto di digital history. Vi verrà chiesto di realizzare un prodotto ( un database, una bibliografia, un sito, o altro) e la relativa documentazione del processo con cui l'avete costruito. La valutazione finale si baserà sulla discussione del progetto e della documentazione.
+
+I prod students to ask questions similar to those one might ask for a book project: 
+What is the overall intent of the project? 
+What is the genre of the digital resource you envision—an archive for other researchers, a learning module, a collaborative space? 
+Who is your audience (K–12, scholars, the general public) and how will you tailor the Web site or digital tool to their needs and expectations? 
+What else has been done (online and off) with respect to your project, and how will your project differ?
+
+http://www.journalofamericanhistory.org/issues/952/interchange/index.html
+http://biblio.lett.unitn.it/lezioInternet.htm
+http://www.thatcampflorence.org/page/2/
+
+10 Things That Humanities Researchers Want
+April 18, 2011 8:53 AM
+
+The Research Information Network recently released a report on how humanities researchers do their work. The findings of this study are particularly interesting for Europeana Libraries, since we hope that the content gathered through our project will reach this key target group.
+
+The report, Reinventing Research? Information Practices In The Humanities is available online (www.rin.ac.uk/humanities-case-studies). I also went to the launch event in London, and noted down some of the key points that Humanities researchers said they are looking for in a good web resource.
+
+#1. Make It Easy To Use – Researchers will be turned off if they have to work too hard to find and access the information. They are accustomed to using sites such as Google (79% use Google as the starting point to locate relevant research, according to the study) and they expect the resources they find to be as intuitive as Google to use. In addition to making a basic search easy to perform, we may also want to consider some function to help make people aware of various spellings of words throughout history, for example.
+
+#2. Make It Easy To Cite – There is still a reluctance to cite digital resources. Researchers will often use a digital resource but then cite the paper copy in their notes. However, researchers are much more likely to cite the digital resource if:
+
+    There is a copy-and-paste citation beside the object 
+    The URL is short and sweet; don't let it stretch to 4 lines or be full of garble!
+
+#3. Put It In Their Workflow – We can’t expect researchers to check in regularly to see if an object has been digitised or added to our collection. We must go to them; ensuring that our resources are indexed by Google and listed in library catalogues. We may also want to consider using social media as a way to reach out to humanities researchers.
+
+#4. Provide Clarity on Objects and Processes – Researchers want to know exactly what they are looking at, and current online research resources don’t always make this clear. They want to know, for example:
+
+    The version of the object and ideally be able to directly compare between versions (DIAMM http://www.diamm.ac.uk was mentioned as a good example of a resource that allows comparison).
+    How it was created. In particular, they want to know if texts have been digitised using OCR techniques. If there were editors or translators, they want to know the identities of these people.
+    The physical details of the object. If it is a manuscript, for example, what type of paper is it printed on? Is there damage to it?
+    Why something was digitised or, perhaps more importantly, what could have been digitised but wasn’t? Why was one object or collection included in the digital resource and not another?
+
+#5. Build A Community – Bricks and mortar libraries are not simply a place to conduct research, but also a place to network. The same can be said of conferences and seminars.  “It’s not just the resource, it’s the community,” said one participant. There was general agreement that research websites should include some kind of community aspect; perhaps discussion forums or a way for people to link an object with a finished paper. Providing a way for researchers to link to their work has several functions:
+
+    It gives publicity to the researcher.
+    It allows other users to see work that has already been done on that object.
+    It helps to build a network.
+
+#6. Provide Research Support – Websites often give technical support and guides for using their resources but fail to show how their material is actually being used. Humanities researchers at the conference said they find real-life case studies as helpful as technical guides. We should interview and feature people using the site, showing the step-by-step process of how they did their research, and the resource they put together.
+
+#7. Make The Information Easily Reusable – Researchers want to reuse and analyse data in the format that suits them. The research resource http://www.zotero.org was mentioned by one professor as a critical link in the researcher’s workflow. Students especially want the ability to export data from a resource to Zotero.
+
+#8. Offer Ways To Visualize Collections – A simple search should be the overall priority, but to do a search you have to know what you are looking for. Some researchers want to start by exploring and conceptualising a collection through features such as maps, timelines and word lists. We need to provide ways to go beyond the simple search, while still using methodologies that researchers know and trust.
+
+#9. Think About Linked Data – This is still a relatively new concept for Humanities researchers but there is interest in it. We need the ability to link data and we need senior researchers to take the lead and show us how to do it (perhaps tying into the need for case studies; see point #6).
+
+#10. Provide A Critical Mass of Content – To really engage researchers, we need a critical mass of content in our chosen subject areas; not just scattered objects.
+
+http://valley.lib.virginia.edu/ The Valley of the Shadows early example in dighist and histgis
+http://www.playthepast.org/

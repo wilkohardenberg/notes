@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-05-14T10:20:54.664051
+
+====== Arcadia Workshop St. Petersburg ======
+Created Saturday 14 May 2011
+
+Unchangeable articles, if different opinions arise another author may write a different entry. Authored articles in opposition to Wikipedia.
+
+Will the articles be linked to contents in E&S portal?
+COiNS? DOI
+Drupal as CMS
+Controlled vocabulary (about 400 keywords)
+Eleven themes
+
+Possibility of multiple locations?
+No polygons, only point data.
+
+No double-blind
+Board should take responsibility - names of reviewers on entries
+
+Map-making tutorial
+
+Author payoff --> selfpostng?
+
+Add references out of topic to recommended references. We should be broad about it here.
+
+Start from images to build entries!!!!!
+
+

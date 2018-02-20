@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-03-25T14:37:11.402664
+
+====== StatsAnalysis ======
+Created Friday 25 March 2011
+
+@PhRygiel development of stat analysis tools with online interface and offer to historian and social scientists a tool that reduces the learning curve
+
+they are not sure that their choices are always sound need feedback
+
+how does an historian build the dataset he is going to use for stats?
+
+traditional statistical methods do not consider the fuzzyness and frequent unreliability of historical data
+
+being based on R, the online doesn't offer anything more than R for desktop: why am I here?
+
+need to go back to the source after having performed the analysis
+
+sometimes analysis is embedded within historical data production
+
+@stakats data is cheap, and getting always cheaper. what costs is analysis (or)
+@stakats: Debating historians' hoarding of sources. But when data is cheap, they need to rethink the value they add. 
+
+@PhRygiel coding to be made after the first analysis of data has been performed
+
+Techies may have an advantage from working on historical research: e.g. checking reliability of algorithms in extreme conditions --> not a **seller/client** relationship
+

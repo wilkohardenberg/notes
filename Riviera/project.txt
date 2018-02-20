@@ -1,0 +1,42 @@
+Defining the planet, building the global space
+
+A number of studies has been produced over the years about the process that led to the definition of longitude and to its international standardisation. 
+
+Standardisation processes have often been read as effects of high-modernist state policies (Scott). Policies, produced by the will to make the world more legible to state bureaucracies, that led to almost immediate changes and radical modifications of how countries and landscapes were interpreted, managed and perceived. In many cases however, this could also be seen as a over-simplistic interpretation: in particular, in cases related to the internationalisation of standards processes have often followed much less clear and immediate paths (Geyer). This has probably to be attributed to a different balance of powers: in the one case the imposition of new rules by a strong state on its population (which however, had also its good account of tales of resistance), in the other a long mediation between countries with almost equal power in a not well defined international scenario, made of conferences, congresses and burgeoning international unions and associations (Heller).  
+One of these lengthier processes has been the, not yet finished, standardisation of "mean sea level" heights, a topic of great interest as relates both to geodetic measurement and ordnances surveys and, in a more contemporary light, debates and discourses about climate change. While at the national level, since the mid-19th century, standard gauge points were determined relatively fast (even if a detailed analysis of the processes that led to their definition seems still to be lacking), the issues deriving from the lack of international standards have long-lasting impacts.  
+Overall this aims to be a quest looking at the history of science, diplomacy, cartography, technology and, as far as the role of the "mean sea level" as interface between land and sea and between height and depths is concerned, also the environment. 
+
+The measurement of tides has been one of the earliest step in the understanding of the rel between coast and sea, a topic of scientific inquiry with a great interest for navigation and the military (Reidy, Cartwright). from this lengthier process of research the meant tide level concept arose as a possible reference point for geodesic research, prospecting and ordnance surveys (Airy), a concept that is similar, but not identical to msl. The tight links between  "tidology" and the definition of msl would make it particularly interesting to analyse the material available at the DM about the 1935 Gezeitenmaschine and evaluate its possible role in the parallel research on the definition of a global zero height.
+
+The role of msl in "building the global space" appears evident if looking at 19th century debates about the Panama Canal and the need for understanding oceanic mechanics and standardise the reference system to be able to build. Furthermore global issues are evident in the same period's Arctic research or in the use of English msl (Airy) for the aims of colonial measurement and ordnance in India.
+
+The quest however is not finished yet, and has developed over the centuries from the standardization of one or the other gauge as point of reference to the definition of the geoid [insert def of geoid/gravitational]  
+
+Johaness hagmann geodäsie j.hagmann@deutsches-museum.de
+Gezeitenrechner handgerät
+Schifffahrtsmuseum bremerhaven
+Hydrographisches institut Hamburg
+Firma Ott
+
+Geoid
+Gravimeter
+Drehwage
+
+modello Italgeo
+
+Interesting in the context of this research is the presence in the DM collection of a Gezeitenrechner of the 1930s: it would be interesting to follow the history of this tool and analyse the available documentation in the attempt to analyse the continued links over history between tides and mean sea level. Further instruments in the DM collections that are of interest in the context of this research endeavour are the gravimeters and drehwagen, because of the tight links between physical descriptions of the mean sea level and the computation of the geoid.
+
+Among the archival resources of the DM I will focus on the Firmenschriften of the OTT company, one of the major German productors of tide-gauges. The aim in this case will be to understand in depth the technical development of the tools ...
+
+As regards the DM library, it seems to offer a great choice of texts about tides (refs) and also a small but significant collection about mean sea level and Höhenmessung in general. Further useful sources may be found at the BSB and, probably, at the Landesvermessungsamt. Munich, even if is way off any seaside, is particularly apt to start a research on these issues, since the Bavarian Kingdom was very active around mid-19th century in promoting the works of the Internationale Erdmessung (that later became the International Association of Geodesy)
+
+
+The issue of elevation contours has been analysed already by Napoleonic engineers in the early 19th century, using Carla's altimetry representation method. The latter had imported and adapted the methods used by the Dutch to represent the bathymetry of canals and lagoons. Further studies were perfomed by the father of geodesy Johann Benedict Listing in 1873, whose works and texts may probably be easily found in Hannover.
+
+Refs in Italian
+Ottavio Zanotti Bianco
+Pietro Riccardi 
+Michael Rand Hoare (2005)
+Torresani e Ludovisi, _Cartografia e istituzioni_, Patron, Bologna
+
+Statler says: You are confused, but this is your normal state

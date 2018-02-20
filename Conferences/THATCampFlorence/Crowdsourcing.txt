@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-03-24T16:39:24.118998
+
+====== Crowdsourcing ======
+Created Thursday 24 March 2011
+
+Jeff Howe "The rise of crowdsourcing" Wired June 2006
+
+Interest:
+- gathering documents (mostly privately held) --> going beyond traditional archives / obtain more sources
+- keeping track of current events
+ 
+Rosenzweig & Cohen book about gathering and preservation of digital history
+
+LoC project putting texts on flickr and have them annotated by the public --> problems with spam/quality
+ 
+@inactinique You need a community, but a project can work also with a small community (photosnormandie). 
+
+@wilkohardenberg community needs momentum and in this it his helped by media, but it has not media support from the beginning -->HistoryPIN
+
+@FedericoMazzini commenting crowdosurcing gives new perspective on what a person can be on the internet (anonimity)
+
+options for crowdsourcing data and docs for E&S website?
+what are the options to filter crowdsourced data?
+ what does the person doing crowdsourcing get out of it? this is the question we should pose ourselves: people should be rewarded --> do we need a reward for filtering?
+@sergenoiret only reward: I am part of the story (central aspect in crowdsourcing)
+
+you need to give back to the community: e.g. if you produce a book from crowdsourced material you should somehow give back to the people that originally provided you data
+
+keeping crowdsourced added data separated from institutional data
+
+frederic@clavert.net
+
+
+

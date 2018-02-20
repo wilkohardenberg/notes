@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-03-21T16:56:19.491100
+
+====== Abstract ======
+Created Monday 21 March 2011
+
+The golden eagle (Aquila chrysaetos) is an iconic animal of the Italian alpine province of Trento, being the main heraldic feature of its coat of arms, as of many others in the alpine range. The conservation of this particular species assumes thus a particularly high emotional value. Nonetheless, captures and hunts of eagles, which according to a law of 1939 was considered a noxious animal, were still common at least until World War Two, producing probably a tendential reduction in population. Moreover, there are still few data available regarding the actual historical development of the golden eagle population in the Italian alps, even for the post-WWII years.
+This poster aims just to attempt to fill such a gap and depict the development of population trends of golden eagles in  Trentino in the 20th century. Beside some data gathered from historical accounts of the late 19th century and of the 1930s, the analysis is essentially based on a survey conducted by CNR, the Italian National Research Agency, in 1954 to determine the residual presence of golden eagles in Trentino, and on a detailed study conducted by Dr. Paolo Pedrini of the Museo Tridentino di Scienze Naturali between 1983 and 1985.
+The presence of golden eagles in the Alps of Trentino in the 1950s and 1980s will be mapped, compared, and showcased using GIS methodology as to determine the general trend in eagle population in a period of time in which new nature reserves where planned and founded in the area and the one that had been created in the prewar years was strengthened. Moreover, also the development of captures and hunts since the end of the 19th century will be mapped, as to give an idea of the historical stand of the population in the area.

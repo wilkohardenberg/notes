@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-04-27T11:02:33+02:00
+
+====== BootCampFunding ======
+Created Wednesday 23 February 2011
+
+As a junior researcher in environmental history with a major interest in using digital tools in research, the attendance at the THATCamp Florence BootCamp will be crucial in allowing me to deepen and refine my knowledge of current developments in DH and to better understand which DH tools best fit my research needs. In particular, I am interested in attending the following BootCamp sessions: "Funding Digital Humanities Projects (Parts 1 & 2)" (to develop the skills needed to obtain future funding for joint EH/DH projects), "OMEKA for beginners (Parts 1 & 2)" (to be able to start to showcase my research activities and my archival findings and improve the website I am managing: http://www.natureandnation.eu), and "Geotagging and using Google Maps and Google Earth in historical contexts" (since I am working on a GIS about Alpine environmental history and, holding a Ph.D. in Geography, am in general interested in geoanalysis of historical processes).
+
+In the past years I have constantly tried to further develop my skills in various (mostly open-source) software tools and programming languages that may be useful in historical research and that I constantly attempt to use in my research: GIS (GRASS and QGIS), the statistical software environment R and the mathematical software Octave, database development, qualitative data analysis tools (RQDA, Weft-QDA and Atlas.ti), Python and Ruby programming, HTML and CMS. In future, I would be particularly interested in attempting to use at least part of this developing knowledge also in teaching, for example introducing computer-aided teaching in the classroom or developing workshops on digital methods for historians.
+
+In March I will still formally be a Carson Fellow at the Rachel Carson Center in Munich, but my residence will be by then over, and I will thus not be paid by the Center and will have no rights to get "unconference" trips refunded. It would thus be rather difficult for me to attend without a fellowship, since I would have to pay for all expenses on my own.

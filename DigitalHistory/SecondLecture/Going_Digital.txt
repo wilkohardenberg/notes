@@ -1,0 +1,324 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-05-03T10:25:07+02:00
+
+====== Going Digital ======
+2011/03/15 //
+
+If you are just getting started with online research, there are some
+things that are handy to know, and a few tools you might like to set up
+for yourself.
+
+/Analog and digital/.  When I talk to my students about the difference
+between analog and digital representations, I use the example of two
+clocks.  The first is the kind that has hour and minute hands, and
+perhaps one for seconds, too.  At some point you learned how to tell
+time on an analog clock, and it may have seemed difficult.  Since the
+clock takes on every value in between two times, telling time involves a
+process of measurement. You say, “it’s about 3:15,” but the time changes
+continuously as you do so.  Telling time with a digital clock, by
+contrast, doesn’t require you to do more than read the value on the
+display.  It is 3:15 until the clock says it is 3:16.  Digital
+representations can only take on one of a limited (although perhaps very
+large) number of states.  Not every digital representation is
+electronic.  Writing is digital, too, in the sense that there are only a
+finite number of characters, and instances of each are usually
+interchangeable.  You can print a book in a larger font, or in Braille,
+without changing the meaning.  Salvador Dalí’s melting clocks, however,
+would keep different time–which was the point, of course.
+
+/The costs are different/.  Electronic digital information can be
+duplicated at near-zero cost, transmitted at the speed of light, stored
+in infinitesimally small volumes, and created, processed and consumed by
+machines.  This means that ideas that were more-or-less serviceable in
+the world before networked computers–ideas about value, property rights,
+communication, creativity, intelligence, governance and many other
+aspects of society and culture–are now up for debate.  The emergence of
+new rights regimes (such as open access
+<http://www.earlham.edu/~peters/fos/overview.htm>, open content
+<http://creativecommons.org/> and open source
+<http://www.opensource.org/osd.html>) and the explosion of new
+information are manifestations of these changing costs.
+
+/You won’t be able to read everything/.  Estimates of the amount of new
+information that is now created annually are staggering (2003
+<http://www2.sims.berkeley.edu/research/projects/how-much-info-2003/>,
+2009 <http://hmi.ucsd.edu/howmuchinfo_research_report_consum.php>).  As
+you become more skilled at finding online sources, you will discover
+that new material on your topic appears online much faster than you can
+read it.  The longer you work on something, the more behind you will
+get.  This is OK, because everyone faces this issue whether they realize
+it or not.  In traditional scholarship, scarcity was the problem: travel
+to archives was expensive, access to elite libraries was gated,
+resources were difficult to find, and so on.  In digital scholarship,
+abundance is the problem.  What is worth your attention or your trust?
+
+/Assume that what you want is out there, and that you simply need to
+locate it/.  I first found this advice in Thomas Mann’s excellent
+/Oxford Guide to Library Research
+<http://www.amazon.com/Oxford-Guide-Library-Research/dp/0195189981/>/.
+ Although Mann’s book focuses primarily on pre-digital scholarship, his
+strategies for finding sources are more relevant than ever.  Don’t
+assume that you are the best person for the job, either.  Ask a
+librarian for help.  You’ll find that they tend to be nicer, better
+informed, more helpful and more tech savvy <http://code4lib.org/> than
+the people you usually talk to about your work.  Librarians work
+constantly on your behalf to solve problems related to finding and
+accessing information.
+
+/The first online tool you should master is the search engine/.  The
+vast majority of people think that they can type a word or two into
+Google and choose something from the first page of millions of results.
+ If they don’t see what they’re looking for, they try a different
+keyword or give up.  When I talk to scholars who aren’t familiar with
+digital research, their first assumption is often that there aren’t any
+good online resources for their subject.  A little bit of guided digging
+often shows them that this is far from the truth.  So how do you use
+search engines more effectively?  First of all, sites have an advanced
+search page that lets you focus in on your topic, exclude search terms,
+weight some terms more than others, limit your results to particular
+kinds of document, to particular sites, to date ranges, and so on.
+Second, different search engines introduce different kinds of bias by
+ranking results differently, so you get a better view when you routinely
+use more than one.  Third, all of the major search engines keep
+introducing new features, so you have to keep learning new skills.
+ Research technique is something you *practice*, not something you have.
+
+/Links are the currency of the web/.  Links make it possible to navigate
+from one context to another with a single click.  For human users, this
+greatly lowers the transaction costs of comparing sources.  The link is
+abstract enough to serve as means of navigation and able to subsume
+traditional scholarly activities like footnoting, citation, glossing and
+so on.  Furthermore, extensive hyperlinking allows readers to follow
+nonlinear and branching paths through texts.  What many people don’t
+realize is that links are constantly being navigated by a host of
+artificial users, colorfully known as spiders, bots or crawlers. A
+computer program downloads a webpage, extracts all of the links and
+other content on it, and follows each new link in turn, downloading the
+pages that it encounters along the way.  This is where search engine
+results come from: the ceaseless activity of millions of automated
+computer programs that constantly remake a dynamic and incomplete map of
+the web.  It has to be this way, because there is no central authority.
+ Anyone can add stuff to the web or remove it without consulting anyone
+else.
+
+/The web is not structured like a ball of spaghetti/.  Research done
+with web spiders has shown that a lot of the most interesting
+information to be gleaned from digital sources lies in the hyperlinks
+leading into and out of various nodes, whether personal pages,
+documents, archives, institutions, or what have you. Search engines
+provide some rudimentary tools for mapping these connections, but much
+more can be learned with more specialized tools.  Some of the most
+interesting structure is to be found in social networks, because…
+
+/Emphasis is shifting from a web of pages to a web of people/.  Sites
+like Blogger, WordPress, Twitter, Facebook, Flickr and YouTube put the
+emphasis on the contributions of individual people and their
+relationships to one another.  Social searching and social
+recommendation tools allow you to find out what your friends or
+colleagues are reading, writing, thinking about, watching, or listening
+to.  By sharing information that other people find useful, individuals
+develop reputation and change their own position in social networks.
+ Some people are bridges between different communities, some are hubs in
+particular fields, and many are lonely little singletons with one
+friend.  This is very different from the broadcast world, where there
+were a few huge hubs spewing to a thronging multitude (known as “the
+audience <http://www.goodreads.com/quote/show/105085>“).
+
+Ready to jump in?  Here are some things you might try.
+
+*Customize a browser to make it more useful for research*
+
+ 1. Install Firefox <http://www.mozilla.com/en-US/firefox/personal.html>
+ 2. Add some search extensions
+     1. Worldcat <http://www.worldcat.org/toolbars/default.jsp>
+     2. Internet Archive
+        <https://addons.mozilla.org/en-US/firefox/addon/14434>
+     3. Project Gutenberg
+        <https://addons.mozilla.org/en-US/firefox/addon/9173>
+     4. Merriam-Webster
+        <https://addons.mozilla.org/en-US/firefox/addon/4609>
+ 3. Pull down the search icon and choose “Manage Search Engines” -> “Get
+    more search engines” then search for add-ons within Search Tools
+ 4. Try search refinement
+     1. Install the Deeper Web
+        <https://addons.mozilla.org/en-US/firefox/addon/10187> add-on
+        and try using tag clouds to refine your search
+     2. /Example/.  Suppose you are trying to find out more about a
+        nineteenth-century missionary named Adam Elliot
+        <http://www.biographi.ca/009004-119.01-e.php?&id_nbr=4970>.  If
+        you try a basic Google search, you will soon discover there is
+        an Australian animator with the same name.  Try using Deeper Web
+        to find pages on the missionary.
+ 5. Add bookmarks for advanced search pages to the bookmark toolbar
+     1. Google Books <http://books.google.com/advanced_book_search>
+        (note that you can set to “full view only” or “full view and
+        preview”
+     2. Historic News
+        <http://news.google.com/archivesearch/advanced_search>
+        (experiment with the timeline view)
+     3. Internet Archive <http://www.archive.org/advancedsearch.php>
+     4. Hathi Trust <http://catalog.hathitrust.org/>
+     5. Flickr Commons <http://www.flickr.com/commons> (try limiting by
+        license)
+     6. Wolfram Alpha <http://www.wolframalpha.com/> (try “China
+        population”)
+     7. Google Ngram Viewer <http://ngrams.googlelabs.com/>
+ 6. You can block sites
+    <http://googleblog.blogspot.com/2011/03/hide-sites-to-find-more-of-what-you.html>
+    that have low quality results
+
+*Work with citations*
+
+ 1. Install Zotero <http://www.zotero.org/>
+     1. Try grabbing a record from the Amazon <http://www.amazon.com/>
+        database
+     2. Use Zotero to make a note of stuff you find using Search Inside
+        <http://www.amazon.com/exec/obidos/tg/browse/-/10197021> on your
+        book
+     3. Under the info panel in Zotero, use the Locate button to find a
+        copy in a library near you
+     4. From the WorldCat page, try looking for related works and saving
+        a whole folder of records in Zotero
+     5. Find the book in a library and save the catalog information as a
+        page snapshot
+     6. Go into Google Books, search for full view only, download
+        metadata and attach PDF
+ 2. Learn more
+    <http://lifehacker.com/#!5463293/how-to-clip-sort-and-cite-the-entire-web-with-zotero>
+    about Zotero
+ 3. Explore other options for bibliographic work (e.g. Mendeley
+    <http://www.mendeley.com/>)
+http://www.wizfolio.com/ 
+
+*Find repositories of digital sources on your topic*
+
+Here are a few examples for various kinds of historical research.
+
+ 1. Canada
+     1. Canadiana.org <http://www.canadiana.org/>
+     2. Dictionary of Canadian Biography online
+        <http://www.biographi.ca/index-e.html>
+     3. Repertory of Primary Source Databases
+        <http://www.thenhier.ca/en/content/repertory-primary-source-databases>
+     4. Our Roots <http://www.ourroots.ca/>
+     5. British Columbia Digital Library
+        <http://bcdlib.tc.ca/general-collections-canada.html>
+     6. Centre for Contemporary Canadian Art <http://www.ccca.ca/>
+ 2. US
+     1. Library of Congress Digital Collections
+        <http://www.loc.gov/library/libarch-digital.html>
+     2. American Memory <http://memory.loc.gov/ammem/index.html>
+     3. NARA <http://www.archives.gov/index.html>
+     4. Calisphere <http://www.calisphere.universityofcalifornia.edu/>
+     5. NYPL Digital Projects <http://www.nypl.org/online_projects>
+ 3. UK and Europe
+     1. Perseus Digital Library <http://www.perseus.tufts.edu/hopper/>
+     2. UK National Archives <http://nationalarchives.gov.uk/>
+     3. Old Bailey Online <http://www.oldbaileyonline.org/>
+     4. London Lives <http://www.londonlives.org/>
+     5. Connected Histories
+        <http://www.history.ac.uk/projects/connected-histories>
+     6. British History Online
+        <http://www.british-history.ac.uk/Default.aspx>
+     7. British Newspapers 1800-1900 <http://newspapers.bl.uk/blcs/>
+     8. English Broadside Ballad Archive
+        <http://emc.english.ucsb.edu/ballad_project/>
+     9. EuroDocs <http://eudocs.lib.byu.edu/index.php/Main_Page>
+    10. Europeana <http://europeana.eu/portal/>
+    11. The European Library
+        <http://search.theeuropeanlibrary.org/portal/en/index.html>
+    12. Gallica <http://gallica.bnf.fr/?&lang=EN>
+ 4. Thematic (e.g., history of science and medicine)
+     1. Complete Works of Charles Darwin Online
+        <http://darwin-online.org.uk/>
+     2. Darwin Correspondence Project <http://www.darwinproject.ac.uk/home>
+     3. National Library of Medicine Digital Projects
+        <http://www.nlm.nih.gov/onlineexhibitions.html>
+
+*Capture some RSS feeds*
+
+ 1. Install the Sage <https://addons.mozilla.org/en-US/firefox/addon/77>
+    RSS feed reader in Firefox (lots of other possibilities, like Google
+    Reader <http://www.google.com/reader/>)
+     1. Go to H-Net <http://www.h-net.org/lists/> and choose one or more
+        lists to monitor; drag the RSS icons to the Sage panel and edit
+        properties
+     2. Go to Google News <http://news.google.com/> and create a search
+        that you’d like to monitor; drag RSS to Sage panel and edit
+        properties
+     3. Go to Hot New Releases in Expedition and Discovery
+        <http://www.amazon.com/gp/new-releases/books/3825131/ref=pd_nr_b_nav>
+        at Amazon and subscribe to RSS feed
+ 2. Consider signing up for Twitter <http://www.twitter.com/>, following
+    a lot of colleagues and aggregating their interests with Tweeted
+    Times <http://tweetedtimes.com/> (this is how Digital Humanities Now
+    <http://digitalhumanitiesnow.org/> works)
+
+*Discover some new tools*
+
+ 1. The best place to start is Lisa Spiro’s Digital Research Tools wiki
+    <https://digitalresearchtools.pbworks.com/>
+
+Categories Method <http://en.wordpress.com/tag/method/>
+
+
+      No comments /Comments are closed/.
+
+  *
+
+
+        Projects
+
+      o Criminal Intent <http://criminalintent.org/> Text mining the Old
+        Bailey
+      o Digital History Hacks (2005-08)
+        <http://digitalhistoryhacks.blogspot.com/> Methodology for the
+        infinite archive
+      o GitHub <https://github.com/williamjturkel> Some code I’m sharing
+      o NiCHE <http://niche-canada.org/> Network in Canadian History &
+        Environment
+      o Programming Historian
+        <http://niche-canada.org/programming-historian> Python coding
+        for humanists
+      o UWO Webpage <http://history.uwo.ca/faculty/turkel> I teach history
+  *
+
+
+    Creative Commons License
+    <http://creativecommons.org/licenses/by-nc-sa/3.0/>
+
+  *
+
+
+        Recent
+
+      o Bits from Bytes Darwin RepRap
+        <http://williamjturkel.net/2011/04/19/bits-from-bytes-darwin-reprap/>
+      o Building MakerBot 00018
+        <http://williamjturkel.net/2011/04/18/building-makerbot-00018/>
+      o Measure and Refactor Constantly
+        <http://williamjturkel.net/2011/04/05/measure-refactor/>
+      o Write and Cluster Small Texts
+        <http://williamjturkel.net/2011/04/04/write-and-cluster/>
+      o Burst Documents for Fine-Grained Matching
+        <http://williamjturkel.net/2011/03/27/burst-documents/>
+      o Spider to Collect Sources
+        <http://williamjturkel.net/2011/03/22/spider-to-collect-sources/>
+      o Going Digital <http://williamjturkel.net/2011/03/15/going-digital/>
+      o Make Local Copies of Everything
+        <http://williamjturkel.net/2011/03/07/make-local-copies/>
+
+  *
+
+
+        Categories
+
+      o Making <http://williamjturkel.net/category/making/>
+      o Method <http://williamjturkel.net/category/method/>
+
+Blog at WordPress.com <http://wordpress.com/?ref=footer>. | Theme: Wu
+Wei <http://theme.wordpress.com/themes/wu-wei/> by Jeff Ngan
+<http://equivocality.com>.
+Back to the top <#top>
+[feedly mini]

@@ -1,0 +1,70 @@
+Training objectives
+The course aims at introducing students to the use of digital tools in research, analysis, visualization and sharing of historical data, documents, and texts. The goal is to provide a "toolbox", as far as possible open/free, that may be useful in the students' researches.
+Among the topics that will be discussed there are the gathering of information online, the structuring of digital bibliographies and archival databases, an introduction to spatial and numerical analysis, and the publication and sharing of results and primary documents.
+At the end of the course the students should be able make an informed choice of the tools that may be more useful for their research topics and to use them for analysis and outreach.
+
+Prerequisites
+Basic computer skills.
+
+Course programme
+- What is digital history?
+- How to find information online
+- New historical sources: crowdsourcing, digitalisation, metadata
+- Blogging, micro-blogging and social media
+- Structuring digital bibliographies and archives
+- Data analysis and visualization
+- Copyright, copyleft, Creative Commons: publication ethics and rights.
+- Publishing results online
+
+Didactic Methods
+Lectures, computer lab, workshops, personal/group project
+
+Learning assessment procedures
+Final project and oral exam
+
+Reference Texts
+Cohen, Daniel, and Roy Rosenzweig. Digital History: A Guide to Gathering, Preserving, and Presenting the Past on the Web. University of Pennsylvania Press, 2005. (also available online at: http://chnm.gmu.edu/digitalhistory/). Selected parts.
+Landrum, Shane History Research Hacks. Exploring digital tools & methods [Weblog] http://cliotropic.org/wip/
+Turkel, William J. Digital History Hacks: Methodology for the Infinite Archive (2005-08). [Weblog] http://digitalhistoryhacks.blogspot.com/
+Turkel, William J. A Workflow for Digital Research Using Off-the-Shelf Tools. [Weblog] http://williamjturkel.net/how-to/
+Further references will be given during the lectures
+
+Other information
+Further information will be available, after the start of the lectures, on the course blog (http://informaticastorica.wordpress.com) and following the hashtag #airs12 on twitter.
+Students not attending classes are required to contact the professor via e-mail (wilko.hardenberg@gmail.com) to discuss the details of their final project and of the exam programme.
+
+
+Obiettivi Formativi
+Il corso si propone di introdurre gli studenti all'uso di strumenti informatici per la ricerca, l'analisi, la visualizzazione e la condivisione di dati, documenti e testi storici. L'obiettivo è quello di fornire una "cassetta degli attrezzi", per quanto possibile open/free, utile a svolgere il proprio lavoro di ricerca. 
+Tra gli argomenti che verranno affrontati ci sono il reperimento di informazioni online, la strutturazione di bibliografie elettroniche e di database archivistici, un'introduzione all'analisi spaziale e statistica e la pubblicazione e divulgazione dei risultati e dei documenti.
+A fine corso lo studente dovrebbe essere in grado di scegliere in maniera informata gli strumenti più utili al suo tema di ricerca e di utilizzarli per l'analisi e la divulgazione.
+
+Prerequisiti
+Conoscenze informatiche di base.
+
+Programma del Corso
+- Cos'è la "digital history"?
+- Reperire le informazioni in rete
+- Nuove fonti per la storia: crowdsourcing, digitalizzazione, metadati
+- Blogging, micro-blogging e social media
+- Strutturare bibliografie e archivi digitali
+- Analisi e visualizzazione dei dati
+- Copyright, copyleft, Creative Commons: deontologia e diritti di pubblicazione
+- La pubblicazione dei risultati online
+
+Metodi didattici
+Lezioni frontali, aula informatica, attività seminariali, progetto personale o di gruppo.
+
+Modalità di verifica dell'apprendimento
+Progetto finale e colloquio
+
+Testi di Riferimento
+Cohen, Daniel, e Roy Rosenzweig. Digital History: A Guide to Gathering, Preserving, and Presenting the Past on the Web. University of Pennsylvania Press, 2005. (disponibile anche online: http://chnm.gmu.edu/digitalhistory/). Parti selezionate.
+Landrum, Shane History Research Hacks. Exploring digital tools & methods [Weblog] http://cliotropic.org/wip/
+Turkel, William J. Digital History Hacks: Methodology for the Infinite Archive (2005-08). [Weblog] http://digitalhistoryhacks.blogspot.com/
+Turkel, William J. A Workflow for Digital Research Using Off-the-Shelf Tools. [Weblog] http://williamjturkel.net/how-to/
+Ulteriori siti e riferimenti verranno dati nel corso delle lezioni.
+
+Altre informazioni
+Ulteriori informazioni saranno disponibili, dopo l'inizio delle lezioni, sul blog del corso (http://informaticastorica.wordpress.com) e seguendo l'hashtag #airs12 su twitter.
+Agli studenti non frequentanti è chiesto di contattare il docente via e-mail (wilko.hardenberg@gmail.com) per discutere i dettagli del loro progetto finale e del programma d'esame.

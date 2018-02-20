@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-03-21T16:47:54.328921
+
+====== References ======
+Created Monday 21 March 2011
+
+Kirk Roberts et al. 2010. Toponym Disambiguation Using Events. In Proceedings of the Twenty-Third International Florida Artificial Intelligence Research Society Conference (FLAIRS 2010), 271-276.
+

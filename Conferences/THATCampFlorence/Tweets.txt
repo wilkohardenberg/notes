@@ -1,0 +1,990 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-03-26T12:41:51.449847
+
+====== Tweets ======
+Created Saturday 26 March 2011
+
+@AndrewHazlett "Engineering vs. Liberal Arts: Who’s Right—Bill or Steve?" http://j.mp/fmWQOG cc: #THATCamp
+Tue Mar 22 03:09:30 2011 - tweet id 50031318033117185 - #1
+
+@PirehP1 #THATCamp Teaching digital humanities on line : http://pireh.univ-paris1.fr/doc/ThatCamp_2011.pdf
+Wed Mar 23 15:53:29 2011 - tweet id 50585968339718144 - #2
+
+@marionlame RT @piotrr70: #thatcamp people from Paris1 say : Teaching digital humanities slides are online : http://pireh.univ-paris1.fr/doc/ThatCamp_2011.pdf
+Wed, 23 Mar 2011 16:01:09 - tweet id 50587899732832256 - #3
+
+@infoclio Historians at Sorbonne University are teaching Php Mysql, XML, GIS, and digital epistemology to their student #thatcamp
+Wed, 23 Mar 2011 16:04:46 - tweet id 50588809179561984 - #4
+
+@Airminded At Airminded: THATCamp thoughts http://bit.ly/gx7sJb
+Wed, 23 Mar 2011 16:05:41 - tweet id 50589039807574016 - #5
+
+@piotrr70 #thatcamp Paris 1 seems very advanced in history and computing teaching : http://pireh.univ-paris1.fr/pirh/
+Wed, 23 Mar 2011 16:06:16 - tweet id 50589187551920129 - #6
+
+@amandafrench Hearing about a digital history program at the University of Paris: http://j.mp/hypa89 w/ lots of great stats & database training #thatcamp
+Wed, 23 Mar 2011 16:06:42 - tweet id 50589293634256897 - #7
+
+@marionlame RT @piotrr70: #thatcamp Paris 1 seems very advanced in history and computing teaching : http://pireh.univ-paris1.fr/pirh/
+Wed, 23 Mar 2011 16:06:59 - tweet id 50589366837460992 - #8
+
+@medieviz @piotrr70 I appreciate info about slides from Paris1: thanks to you I follow two conferences at the same time. That's ubiquity #Thatcamp
+Wed, 23 Mar 2011 16:07:24 - tweet id 50589469514018816 - #9
+
+@medieviz entreprise Medicis: ils sont pleins de bonne volonté, c'est mignon cet enthousiasme #Thatcamp
+Wed, 23 Mar 2011 16:10:15 - tweet id 50590188585496577 - #10
+
+@amandafrench Early courses include Writing History on the Web & Social Meaning of Statistical Documents; graduate courses, R & database design. #thatcamp
+Wed, 23 Mar 2011 16:10:18 - tweet id 50590202233749504 - #11
+
+@amandafrench U of Paris recently added GIS courses to its digital history graduate program. #thatcamp
+Wed, 23 Mar 2011 16:11:05 - tweet id 50590396593618944 - #12
+
+@wilkohardenberg btw, I love my new netbook battery. A whole day of #THATCamp without any need for plugs
+Wed, 23 Mar 2011 16:12:21 - tweet id 50590715272630272 - #13
+
+@jtheibault RT @Airminded: THATCamp thoughts http://bit.ly/gx7sJb / Cautionary note from perspective of historian who did digital work before history.
+Wed, 23 Mar 2011 16:12:39 - tweet id 50590794326880256 - #14
+
+@piotrr70 @medieviz Medicis or Medici ? http://www.medici.org/ #thatcamp
+Wed, 23 Mar 2011 16:13:12 - tweet id 50590932189450240 - #15
+
+@medieviz @piotrr70 Bon, bon, Medici. It's too much fascinating...#ThatCamp #quinedortpasdanslasalle?
+Wed, 23 Mar 2011 16:15:51 - tweet id 50591597171179520 - #16
+
+@amandafrench RT @medieviz: Ah, enfin un TEI plugin et un solR search pour Omeka #ThatCamp // I'm excited about this too. Want to try it out.
+Wed Mar 23 16:17:59 2011 - tweet id 50592134264389632 - #17
+
+@piotrr70 #thatcamp history departments from french universities should really check http://bit.ly/hjOs9Y All the details about thoughtful curricula
+Wed, 23 Mar 2011 16:20:53 - tweet id 50592862483652608 - #18
+
+@iantrevor Great to see so many non-English tweets in the #thatcamp feed. Wish I could attend THATCamp Florence!
+Wed, 23 Mar 2011 16:21:23 - tweet id 50592990695145473 - #19
+
+@piotrr70 #thatcamp they also have a project for a professionnal master degree in history and computing
+Wed, 23 Mar 2011 16:23:34 - tweet id 50593539607904256 - #20
+
+@marionlame RT @piotrr70: #thatcamp they also have a project for a professionnal master degree in history and computing
+Wed Mar 23 16:24:04 2011 - tweet id 50593665999052800 - #21
+
+@marionlame RT @piotrr70: #thatcamp history departments from french universities should really check http://bit.ly/hjOs9Y All the details about thoughtful curricula
+Wed, 23 Mar 2011 16:24:12 - tweet id 50593699008221184 - #22
+
+@medieviz Ah je me réveille, y a un transcription web tool pour transcrire des textes numérisés sur la nouvelle plate-forme Medici project #Thatcamp
+Wed, 23 Mar 2011 16:26:13 - tweet id 50594208163176448 - #23
+
+@Emmamgsid Lvs Omeka : une doc "user oriented" avec des 'screencast' ex. managing collections http://bit.ly/hN8 #THATCAMP
+Wed Mar 23 16:29:15 2011 - tweet id 50594970037518336 - #24
+
+@piotrr70 #thatcamp http://lamop.univ-paris1.fr/alpage/ a research project with GIS on medieval paris with participation of students
+Wed, 23 Mar 2011 16:30:26 - tweet id 50595269246599168 - #25
+
+@piotrr70 #thatcamp Paris1 people call for a common list of skills for DH teaching through europe
+Wed, 23 Mar 2011 16:32:25 - tweet id 50595765516632064 - #26
+
+@piotrr70 #thatcamp Paris1 people have a seminar with computer scientists and mathematicians
+Wed, 23 Mar 2011 16:34:01 - tweet id 50596170824810496 - #27
+
+@amandafrench I also like that the PIREH program has a "professional" track as well as a researcher track. #thatcamp
+Wed, 23 Mar 2011 16:36:28 - tweet id 50596784329859074 - #28
+
+@medieviz The scholar should see non-vetted documents #ThatCamp #ArchiveMedici
+Wed, 23 Mar 2011 16:36:52 - tweet id 50596886272425984 - #29
+
+@Emmamgsid Emmamgsid @medieviz - Il y a aussi http://bit.ly/eTA0bp : comme scripto, signalé par @amandafrench #THATCAMP
+Wed, 23 Mar 2011 16:37:44 - tweet id 50597105076666368 - #30
+
+@marionlame RT @piotrr70: #thatcamp Paris1 people call for a common list of skills for DH teaching through europe
+Wed, 23 Mar 2011 16:37:49 - tweet id 50597126664765440 - #31
+
+@marionlame RT @piotrr70: #thatcamp http://lamop.univ-paris1.fr/alpage/ a research project with GIS on medieval paris with participation of students
+Wed, 23 Mar 2011 16:38:00 - tweet id 50597171363446784 - #32
+
+@medieviz The wikisystem is great! Ah ah, j'apprends des choses ;-) #ThatCamp #unbossdarchivemediciévangélise
+Wed Mar 23 16:41:22 2011 - tweet id 50598017673330688 - #33
+
+@cliotropic RT @amandafrench Hearing about a digital history prgm @ U of Paris: http://j.mp/hypa89 w/ lots of great stats & database training #thatcamp
+Wed, 23 Mar 2011 16:43:46 - tweet id 50598624777875457 - #34
+
+@cliotropic RT @amandafrench U of Paris recently added GIS courses to its digital history graduate program. #thatcamp
+Wed, 23 Mar 2011 16:44:42 - tweet id 50598857901486082 - #35
+
+@medieviz Travaillons au rapprochement de l'excellence: Paris1-IRHT. Love is everywhere and especially in the DH #ThatCamp
+Wed, 23 Mar 2011 16:50:32 - tweet id 50600325907873792 - #36
+
+@javiercha RT @amandafrench: Hearing about a digital history program at the University of Paris: http://j.mp/hypa89 w/ lots of great stats & database training #thatcamp
+Wed, 23 Mar 2011 16:52:15 - tweet id 50600756419633152 - #37
+
+@vszabo RT @cliotropic: RT @amandafrench Hearing about a digital history prgm @ U of Paris: http://j.mp/hypa89 w/ lots of great stats & database training #thatcamp
+Wed, 23 Mar 2011 16:52:44 - tweet id 50600881795776514 - #38
+
+@medieviz DTD semble être un mot interdit (ou trop difficile à prononcer), s'agissant des Medicis...Mais ne soyons pas trop talibans #THATcamp
+Wed, 23 Mar 2011 16:53:59 - tweet id 50601194925735936 - #39
+
+@stakats .@sleonchnm just wowed the room with the greatest dev team photo of all time: http://is.gd/lf6IiE #thatcamp #willrileyisobiwan
+Wed, 23 Mar 2011 16:54:31 - tweet id 50601327759335424 - #40
+
+@medieviz Ariana a sorti le mot qui tue: TEI! Stupeur et tremblements dans la salle #THATCamp #lastatuedeCosmodeMedicitremblesursonsocle
+Wed, 23 Mar 2011 17:01:47 - tweet id 50603156907900929 - #41
+
+@willriley3 RT @stakats: .@sleonchnm just wowed the room with the greatest dev team photo of all time: http://is.gd/lf6IiE #thatcamp #willrileyisobiwan
+Wed, 23 Mar 2011 17:11:16 - tweet id 50605544553189376 - #42
+
+@marionlame Ontologies? Explicit formalisation of a shared conceptualisation. I like it. #thatcamp
+Wed, 23 Mar 2011 17:16:26 - tweet id 50606844137320448 - #43
+
+@piotrr70 #thatcamp Link to the slides of my presentation on french cyberinfrastructures : http://slidesha.re/gQkW5B
+Wed, 23 Mar 2011 17:16:54 - tweet id 50606961187762177 - #44
+
+@marionlame standards to create and manipulate ontologies (URI-XML-RDF-OWL) #thatcamp
+Wed, 23 Mar 2011 17:16:56 - tweet id 50606968838164481 - #45
+
+@amandafrench Hearing about Pinakes: http://pinakes.org, a system for modeling ontologies of historical scientific knowledge. cc @dweinberger #thatcamp
+Wed, 23 Mar 2011 17:17:18 - tweet id 50607063520378882 - #46
+
+@piotrr70 #thatcamp Presentation of Pinakes A modelling environment for scientific heritage database applications http://pinakes.org
+Wed, 23 Mar 2011 17:19:26 - tweet id 50607599858626560 - #47
+
+@marionlame RT @piotrr70: #thatcamp Presentation of Pinakes A modelling environment for scientific heritage database applications http://pinakes.org
+Wed, 23 Mar 2011 17:22:50 - tweet id 50608455723126784 - #48
+
+@wilkohardenberg RT @piotrr70: #thatcamp Paris1 people call for a common list of skills for DH teaching through europe
+Wed, 23 Mar 2011 17:24:55 - tweet id 50608979251957760 - #49
+
+@GLThatCamp Sneak peak at the two sticker's we'll be doing for Great Lakes #THATCamp this year http://twitpic.com/4chwd3 & http://twitpic.com/4chwd5
+Wed, 23 Mar 2011 17:25:24 - tweet id 50609100521881600 - #50
+
+@Matrix_MSU RT @GLThatCamp: Sneak peak at the two sticker's we'll be doing for Great Lakes #THATCamp this year http://twitpic.com/4chwd3 & http://twitpic.com/4chwd5
+Wed, 23 Mar 2011 17:26:07 - tweet id 50609279199219712 - #51
+
+@captain_primate RT @GLThatCamp: Sneak peak at the two sticker's we'll be doing for Great Lakes #THATCamp this year http://twitpic.com/4chwd3 & http://twitpic.com/4chwd5
+Wed, 23 Mar 2011 17:26:08 - tweet id 50609284542771201 - #52
+
+@medieviz Pinakes on stage.Pas le même que le nôtre http://pinakes.irht.cnrs.fr/ ou que celle de l'admin belge: http://www.pinakes.be/ #Thatcamp
+Wed, 23 Mar 2011 17:26:44 - tweet id 50609436066201600 - #53
+
+@inactinique RT @wilkohardenberg: RT @piotrr70: #thatcamp Paris1 people call for a common list of skills for DH teaching through europe
+Wed Mar 23 17:34:27 2011 - tweet id 50611378221883392 - #54
+
+@uohistlib RT @amandafrench: Hearing about Pinakes: http://pinakes.org, a system for modeling ontologies of historical scientific knowledge. cc @dweinberger #thatcamp
+Wed, 23 Mar 2011 17:39:54 - tweet id 50612750476513280 - #55
+
+@medieviz super modèle de description de mss et de leurs textes -ça plairait à la BibaleTeam. Mais link to TEI? Pas easy du tout #ThatCamp #Pinakes
+Wed, 23 Mar 2011 17:45:35 - tweet id 50614180994224128 - #56
+
+@amandafrench Looking only at ontology, Pinakes seems a decent database-backed alternative to TEI for manuscripts. Haven't seen interface, tho. #thatcamp
+Wed, 23 Mar 2011 17:46:35 - tweet id 50614430823743488 - #57
+
+@medieviz L'assistance est écrasée, on n'a pas mis le plus facile pour la fin, avec #Pinakes c'est du lourd. Seuls les meilleurs survivront #THATCamp
+Wed, 23 Mar 2011 17:52:31 - tweet id 50615925061320704 - #58
+
+@medieviz PInakes peut-il gérer l'overlapping? #THATCamp
+Wed Mar 23 17:54:28 2011 - tweet id 50616417057374208 - #59
+
+@medieviz Ils utilisent TEI pour importer des données #Pinakes #THATCamp
+Wed, 23 Mar 2011 17:55:28 - tweet id 50616667176316928 - #60
+
+@piotrr70 #thatcamp pinakes ontology seems to overcome classical xml problem of overlapping elements
+Wed, 23 Mar 2011 18:03:15 - tweet id 50618624460857344 - #61
+
+@Mareike2405 RT @piotrr70: #thatcamp Presentation of Pinakes A modelling environment for scientific heritage database applications http://pinakes.org
+Wed, 23 Mar 2011 18:04:28 - tweet id 50618930124951552 - #62
+
+@medieviz Ca gère donc l'overlapping, mais je suis toujours perplexe. Ce serait bien de coupler avec de la TEI pour une desc standardisée? #THATcamp
+Wed, 23 Mar 2011 18:04:59 - tweet id 50619060651692032 - #63
+
+@limonadeandco The place to be #THATCamp firenze, 2011 #digitalhumanities
+Wed, 23 Mar 2011 18:15:07 - tweet id 50621610436210688 - #64
+
+@milvanidou First day at @THATCamp Florence. Interesting presentations, excellent weather, enchanting landscape!
+Wed, 23 Mar 2011 18:48:47 - tweet id 50630082775093248 - #65
+
+@inactinique Demain, @zfrancophone twittera "Zotero for advanced users" de @stakats #thatcamp #bootcamp #florence
+Wed, 23 Mar 2011 18:49:50 - tweet id 50630349138575360 - #66
+
+@zfrancophone RT @inactinique: Demain, @zfrancophone twittera "Zotero for advanced users" de @stakats #thatcamp #bootcamp #florence
+Wed, 23 Mar 2011 18:50:10 - tweet id 50630433251139584 - #67
+
+@elifsulavraie @inactinique génial! Et on pourra pas avoir le ppt et/ou webcast ? (d'ailleurs pourquoi je sis pas au courant ? #thatcamp et puis rien?)
+Wed, 23 Mar 2011 18:58:21 - tweet id 50632493715570688 - #68
+
+@elifsulavraie @inactinique ils préviennent pas les gens venus au 1er thatcamp ? Je suis un peu larguée je crois :-/
+Wed, 23 Mar 2011 19:00:56 - tweet id 50633141559361536 - #69
+
+@inactinique @elifsulavraie Le 1er ThatCAMP? Tu parles de ThatCAMP Paris? C'était le 5e ou 6e. Le premier était en 2008 au CHNM (les mêmes que zotero).
+Wed, 23 Mar 2011 19:06:10 - tweet id 50634461070630912 - #70
+
+@inactinique @elifsulavraie Bon, ça veut dire qu'il faut que je transmettes plus d'infos par le twitter de THATCamp Paris
+Wed, 23 Mar 2011 19:06:33 - tweet id 50634556117753856 - #71
+
+@gchomatas Attended @omeka presentation A @wordpress branch with great features targeted to Digital Humanists Great support for item types #THATCamp
+Wed, 23 Mar 2011 19:12:35 - tweet id 50636072635478017 - #72
+
+@briancroxall I've still got some #thatcamp SE shirts sitting here. What I *don't* have is a t-shirt gun.
+Wed, 23 Mar 2011 19:39:52 - tweet id 50642939419959297 - #73
+
+@afamiglietti @briancroxall BootCamp project for the next #ThatCamp! Arduino triggered internet controlled t-shirt gun!
+Wed, 23 Mar 2011 19:41:50 - tweet id 50643433924210688 - #74
+
+@CivicSAM I'm excited to be preparing my application for @thatcamplac http://lac2011.thatcamp.org
+Wed, 23 Mar 2011 20:21:13 - tweet id 50653347136544768 - #75
+
+@Mareike2405 RT @piotrr70: #thatcamp pinakes ontology seems to overcome classical xml problem of overlapping elements
+Wed, 23 Mar 2011 20:21:50 - tweet id 50653500421582848 - #76
+
+@iantrevor @briancroxall What is the name of the twitter visualization program you used at #thatcamp se?
+Wed, 23 Mar 2011 20:25:38 - tweet id 50654457519808512 - #77
+
+@wragge Landed in Melbourne. Off to PROV hack day and #Thatcamp tomorrow.
+Wed, 23 Mar 2011 20:45:41 - tweet id 50659501803704321 - #78
+
+@aurelberra Hello to #thatcamp Florence campers! I wish I could attend. All gdocs, summary posts, collections of links will be most appreciated!
+Wed, 23 Mar 2011 21:25:52 - tweet id 50669614098681856 - #79
+
+@thatcamplac Great to hear! // RT @CivicSAM: I'm excited to be preparing my application for @thatcamplac http://lac2011.thatcamp.org
+Wed, 23 Mar 2011 21:41:59 - tweet id 50673673895550976 - #80
+
+@ryancordell RT @thatcamplac: Great to hear! // RT @CivicSAM: I'm excited to be preparing my application for @thatcamplac http://lac2011.thatcamp.org
+Wed, 23 Mar 2011 21:44:09 - tweet id 50674215204032512 - #81
+
+@datchery8 RT @piotrr70: #thatcamp http://lamop.univ-paris1.fr/alpage/ a research project with GIS on medieval paris with participation of students
+Wed, 23 Mar 2011 22:30:16 - tweet id 50685821631725568 - #82
+
+@conal_tuohy learning about #zotero scrapers from @wragge at the Great PROV Data Challenge #gpdc #thatcamp
+Wed, 23 Mar 2011 23:36:49 - tweet id 50702571941269504 - #83
+
+@ashuping @georgiawebgurl what about this http://pkp.sfu.ca/%3Fq%3Dojs saw it demoed at ThatCamp and it looked pretty cool
+Thu, 24 Mar 2011 00:05:19 - tweet id 50709742808596481 - #84
+
+@abigailbelfrage strewth, so much hacking beauty at great prov data challenge #gpdc #thatcamp melbourne
+Thu, 24 Mar 2011 00:20:21 - tweet id 50713525638795264 - #85
+
+@conal_tuohy Wrote a #zotero translator for the Research Data Australia portal, at #GPDC (Great PROV Data Challenge) at #THATCamp
+Thu, 24 Mar 2011 04:09:41 - tweet id 50771238733352963 - #86
+
+@wragge RT @conal_tuohy: Wrote a #zotero translator for the Research Data Australia portal, at #GPDC (Great PROV Data Challenge) at #THATCamp
+Thu, 24 Mar 2011 04:17:04 - tweet id 50773098005405696 - #87
+
+@jayvdb RT @conal_tuohy: Wrote a #zotero translator for the Research Data Australia portal, at #GPDC (Great PROV Data Challenge) at #THATCamp
+Thu, 24 Mar 2011 04:37:55 - tweet id 50778346270883840 - #88
+
+@conal_tuohy #GPDC awards at #THATCamp melbourne: Otway Rangers win the "Bigger than Ben Hur" and "Slice and Dice" awards
+Thu, 24 Mar 2011 05:26:08 - tweet id 50790479259893760 - #89
+
+@conal_tuohy #GPDC awards at #THATCamp melbourne: "CSI Central Victoria" and "People Power" awards to the Kelly Gang!
+Thu, 24 Mar 2011 05:27:38 - tweet id 50790854411026432 - #90
+
+@conal_tuohy #GPDC awards at #THATCamp melbourne: The Grave Diggers picked up the "Creepy Creativity" and "Speed to Market" awards!
+Thu, 24 Mar 2011 05:28:35 - tweet id 50791095432511488 - #91
+
+@thatcampparis RT @aurelberra: Hello to #thatcamp Florence campers! I wish I could attend. All gdocs, summary posts, collections of links will be most appreciated!
+Thu, 24 Mar 2011 06:07:52 - tweet id 50800982321414144 - #92
+
+@inactinique RT @aurelberra: Hello to #thatcamp Florence campers! I wish I could attend. All gdocs, summary posts, collections of links will be most ...
+Thu Mar 24 06:07:53 2011 - tweet id 50800986603794432 - #93
+
+@piotrr70 #thatcamp HSS blogging with Hypotheses http://hypotheses.org starts now in capitolo room
+Thu, 24 Mar 2011 08:27:42 - tweet id 50836172850724864 - #94
+
+@inactinique RT @inactinique: #zotero for advanced users, Seminario 3, with @stakats starts NOW #thatcamp
+Thu, 24 Mar 2011 08:33:12 - tweet id 50837553976324096 - #95
+
+@zfrancophone RT @inactinique: RT @inactinique: #zotero for advanced users, Seminario 3, with @stakats starts NOW #thatcamp
+Thu, 24 Mar 2011 08:34:31 - tweet id 50837887054389248 - #96
+
+@amandafrench In e-book session at #THATCamp Florence. Hmm, Italian book on the future of e-books: La Quarta Rivoluzione http://www.ebooklearn.com/libro/
+Thu, 24 Mar 2011 08:41:27 - tweet id 50839631285075968 - #97
+
+@inactinique #zotero and maps: download zoteromaps: http://bit.ly/gZ43gZ #thatcamp
+Thu, 24 Mar 2011 08:43:08 - tweet id 50840054616174592 - #98
+
+@zfrancophone RT @inactinique: #zotero and maps: download zoteromaps: http://bit.ly/gZ43gZ #thatcamp
+Thu, 24 Mar 2011 08:43:43 - tweet id 50840200447934464 - #99
+
+@marionlame URL doownload maps plpugins : http://www.zotero.org/download/plugins/zoteromaps-1.0.10.xpi #zotero #thatcamp
+Thu, 24 Mar 2011 08:44:11 - tweet id 50840321562640385 - #100
+
+@datalibsam RT @conal_tuohy: Wrote a #zotero translator for the Research Data Australia portal, at #GPDC (Great PROV Data Challenge) at #THATCamp
+Thu, 24 Mar 2011 08:47:53 - tweet id 50841250332545024 - #101
+
+@gerbenzaagsma RT @inactinique: #zotero and maps: download zoteromaps: http://bit.ly/gZ43gZ #thatcamp
+Thu, 24 Mar 2011 08:48:55 - tweet id 50841509892849664 - #102
+
+@fmeschini #THATCamp Stefan Gradmman explaining the Europeana Data Model, sala del teatro
+Thu, 24 Mar 2011 10:57:28 - tweet id 50873860240834562 - #103
+
+@marionlame @marindacos @piotrr70 @stakats peut-on alimenter automatiquement billet #hypotheses avec Zotero ? RDV coffee break ? #thatcamp
+Thu, 24 Mar 2011 10:59:49 - tweet id 50874452044554240 - #104
+
+@stakats @marindacos argues that universities should not try to compete purely on price with private sector digital services. #thatcamp
+Thu, 24 Mar 2011 11:00:13 - tweet id 50874553655758848 - #105
+
+@Ghislain Some pre-publication tools like http://pkp.sfu.ca/omp already exist. #THATCamp
+Thu, 24 Mar 2011 11:00:38 - tweet id 50874659507408897 - #106
+
+@Antonio_LG listening to a macarronic english lesson at #THATCamp
+Thu, 24 Mar 2011 11:00:58 - tweet id 50874743334776832 - #107
+
+@marionlame @marindacos @piotrr70 @stakats peut-on déjà alimenter automatiquement billet #hypotheses avec #Zotero ? RDV coffee break ? #thatcamp
+Thu, 24 Mar 2011 11:01:29 - tweet id 50874873920241664 - #108
+
+@marionlame RT @stakats: @marindacos argues that universities should not try to compete purely on price with private sector digital services. #thatcamp
+Thu, 24 Mar 2011 11:01:55 - tweet id 50874980203896832 - #109
+
+@infoclio "We need to recaim the control of metrics" Marin Dacos at #thatcamp @pabloachard
+Thu, 24 Mar 2011 11:02:46 - tweet id 50875197624025088 - #110
+
+@stakats Now @marindacos calling us to the barricades: scholars built the internet, which created more value than anything in 30 years. #thatcamp
+Thu, 24 Mar 2011 11:02:46 - tweet id 50875196491563008 - #111
+
+@medieviz #Europeana: nouvel Europeana Data Model, bientôt releasé, se voulant fully semantic #THATcamp
+Thu, 24 Mar 2011 11:05:01 - tweet id 50875759870484481 - #112
+
+@piotrr70 RT @infoclio: "We need to recaim the control of metrics" Marin Dacos at #thatcamp @pabloachard
+Thu, 24 Mar 2011 11:05:15 - tweet id 50875820155207680 - #113
+
+@inactinique RT @medieviz: #Europeana: nouvel Europeana Data Model, bientôt releasé, se voulant fully semantic #THATcamp
+Thu, 24 Mar 2011 11:05:54 - tweet id 50875984869728256 - #114
+
+@medieviz abandonner "catalogues" et "records"? plutôt ressources ou documents???? #Europeana #THATcamp
+Thu, 24 Mar 2011 11:07:55 - tweet id 50876492531511297 - #115
+
+@medieviz où les agrégats de ressources commencent-ils et quelles sont les délimitations documentaires? #Europeana #THATcamp
+Thu, 24 Mar 2011 11:08:33 - tweet id 50876650438668289 - #116
+
+@marionlame Where do resource aggregations 'start', where do they 'end'? What are documents boundaries? difficult questions #thatcamp
+Thu, 24 Mar 2011 11:08:42 - tweet id 50876690544599042 - #117
+
+@Ghislain An aggregator for DH information: http://digitalhumanitiesnow.org/ #THATCamp
+Thu, 24 Mar 2011 11:09:09 - tweet id 50876803992141824 - #118
+
+@scilib RT @conal_tuohy: Wrote a #zotero translator for the Research Data Australia portal, at #GPDC (Great PROV Data Challenge) at #THATCamp
+Thu, 24 Mar 2011 11:09:43 - tweet id 50876945612808192 - #119
+
+@medieviz Création de nouvelles découvertes heuristiques via Europeana et des relations indrectes? My brain does the same #Europeana #THATcamp
+Thu, 24 Mar 2011 11:10:19 - tweet id 50877094862913536 - #120
+
+@amandafrench Stefan pointing out that modeling linked open data is a task for digital humanities scholars -- "digital heuristics." #thatcamp
+Thu, 24 Mar 2011 11:15:22 - tweet id 50878367628656640 - #121
+
+@inactinique RT @amandafrench: Stefan pointing out that modeling linked open data is a task for digital humanities scholars -- "digital heuristics." #thatcamp
+Thu, 24 Mar 2011 11:15:37 - tweet id 50878429398179840 - #122
+
+@libsmatter RT @conal_tuohy: Wrote a #zotero translator for the Research Data Australia portal, at #GPDC (Great PROV Data Challenge) at #THATCamp
+Thu, 24 Mar 2011 11:15:44 - tweet id 50878459928522753 - #123
+
+@Infoventurer RT @conal_tuohy: Wrote a #zotero translator for the Research Data Australia portal, at #GPDC (Great PROV Data Challenge) at #THATCamp
+Thu, 24 Mar 2011 11:15:45 - tweet id 50878462113755136 - #124
+
+@medieviz C'est fou comme les manuscrits fascinent les concepteurs de bibliothèques numériques #Europeana #THATcamp
+Thu, 24 Mar 2011 11:16:30 - tweet id 50878651952140288 - #125
+
+@inactinique Swicky Notes, Sticky web notes with semantics #thatcamp
+Thu, 24 Mar 2011 11:16:55 - tweet id 50878758298722304 - #126
+
+@marionlame http://dbin.org/swickynotes/ sticky web notes with semantics #thatcamp (Europeana Open linked data)
+Thu, 24 Mar 2011 11:17:09 - tweet id 50878814405922816 - #127
+
+@wragge RT @amandafrench: Stefan pointing out that modeling linked open data is a task for digital humanities scholars -- "digital heuristics." #thatcamp
+Thu, 24 Mar 2011 11:17:27 - tweet id 50878891035869184 - #128
+
+@paulasimoes Liked "Swicky Notes, Sticky web notes with semantics #thatcamp" http://ff.im/-zBjIU
+Thu, 24 Mar 2011 11:18:36 - tweet id 50879179952099328 - #129
+
+@sergenoiret @thatcampfirenze NYT model for accessing content discussed by @dacos and @mounier in #THATcamp, session Freemium model
+Thu, 24 Mar 2011 11:19:03 - tweet id 50879295182209024 - #130
+
+@wilkohardenberg copyright legislation is way to complex for me to grasp. It seems virtually impossible to publish ANY image-based historical work #thatcamp
+Thu, 24 Mar 2011 11:20:47 - tweet id 50879730127343616 - #131
+
+@medieviz Les objectifs d'Europeana sont mêmes qu'Isidore SAUF pour l'interopérabilité pour dépasser les frontières linguistiques #Europeana #THATcamp
+Thu, 24 Mar 2011 11:21:28 - tweet id 50879901389168640 - #132
+
+@inactinique RT @medieviz: Les objectifs d'Europeana sont mêmes qu'Isidore SAUF pour l'interopérabilité pour dépasser les frontières linguistiques #Europeana #THATcamp
+Thu, 24 Mar 2011 11:21:40 - tweet id 50879953792794624 - #133
+
+@stakats NYT taking some serious heat from @piotrr70 @marindacos. So far, they are also not convinced by Wikipedia, PLoS, Springer, etc. #thatcamp
+Thu, 24 Mar 2011 11:22:22 - tweet id 50880128028389376 - #134
+
+@medieviz Disconnection between scholars ans technician: that's why we have to kill the DH as they are (my 2 cts) #Europeana #THATcamp
+Thu, 24 Mar 2011 11:22:49 - tweet id 50880243069763584 - #135
+
+@marionlame are the #thatcamp twitts register somewhere ? Fortunately, my FB profile got some of yesterday, but then all the rest was blocked, as usual.
+Thu, 24 Mar 2011 11:24:29 - tweet id 50880661589987329 - #136
+
+@sergenoiret @@amandafrench seems website thatcampflorence.org not updating #thatcamp tweets at moment ?
+Thu, 24 Mar 2011 11:25:40 - tweet id 50880957749805056 - #137
+
+@medieviz Réunion le 4 avril Europeana-TGE Adonis et alii à Paris: qui y sera? on aura des infos? #Europeana #TGEAdonis #THATcamp
+Thu, 24 Mar 2011 11:26:23 - tweet id 50881139304431616 - #138
+
+@mikecosgrave Gleaning huge amounts of useful stuff from @amandafrench tweets from #thatcamp - many thanks!
+Thu, 24 Mar 2011 11:28:17 - tweet id 50881617333465088 - #139
+
+@inactinique RT @inactinique: Luigi Briguglio prend le relais de S. Gradmann, pour présenter Assets #thatcamp
+Thu, 24 Mar 2011 11:32:12 - tweet id 50882602365747200 - #140
+
+@sergenoiret @thatcampfirenze #THATcamp college france books in revues.org + exclusive contents for libraries in freemium: stats, teaching: "buying OA"
+Thu, 24 Mar 2011 11:33:16 - tweet id 50882872697028608 - #141
+
+@piotrr70 RT @sergenoiret: @thatcampfirenze #THATcamp college france books in revues.org + exclusive contents for libraries in freemium: stats, teaching: "buying OA"
+Thu, 24 Mar 2011 11:34:47 - tweet id 50883251367194624 - #142
+
+@marionlame Assets 4 Europeana http://www.assets4europeana.eu #thatcamp
+Thu, 24 Mar 2011 11:36:40 - tweet id 50883727722688512 - #143
+
+@medieviz Assets: on parle enfin de preservation planning! First time we hear about that since beginning of conference about #Europeana #THATcamp
+Thu, 24 Mar 2011 11:36:52 - tweet id 50883776124952576 - #144
+
+@wilkohardenberg RT @marionlame: URL download maps plugin: http://www.zotero.org/download/plugins/zoteromaps-1.0.10.xpi #zotero #thatcamp
+Thu, 24 Mar 2011 11:36:56 - tweet id 50883792826662912 - #145
+
+@sergenoiret @marionlame @inactinique also @thatcampfirenze for #THATcamp passer parole
+Thu, 24 Mar 2011 11:38:55 - tweet id 50884292301160448 - #146
+
+@marionlame Follow @THATCampFirenze on Twitter #thatcamp Seguite @THATCampFirenze su Twitter Suivez @THATCampFirenze sur Twitter !
+Thu, 24 Mar 2011 11:43:38 - tweet id 50885481512185857 - #147
+
+@inactinique RT @marionlame: Follow @THATCampFirenze on Twitter #thatcamp Seguite @THATCampFirenze su Twitter Suivez @THATCampFirenze sur Twitter !
+Thu, 24 Mar 2011 11:43:46 - tweet id 50885514777210881 - #148
+
+@marionlame Follow @THATCampFirenze on Twitter #thatcamp
+Thu, 24 Mar 2011 11:43:50 - tweet id 50885532267450368 - #149
+
+@marionlame #thatcamp Seguite @THATCampFirenze su Twitter
+Thu, 24 Mar 2011 11:44:07 - tweet id 50885600152268800 - #150
+
+@inactinique RT @marionlame: Follow @THATCampFirenze on Twitter #thatcamp
+Thu, 24 Mar 2011 11:44:19 - tweet id 50885652836921344 - #151
+
+@marionlame #thatcamp Suivez @THATCampFirenze sur Twitter !
+Thu, 24 Mar 2011 11:44:24 - tweet id 50885673787469824 - #152
+
+@marionlame http://twitter.com/%23!/THATCampFirenze #thatcamp
+Thu, 24 Mar 2011 11:45:11 - tweet id 50885868977786880 - #153
+
+@medieviz "Ingestion": enrichissement mais aussi correction des données. Curieux de voir comment? #Europeana #ThatCamp
+Thu, 24 Mar 2011 11:48:14 - tweet id 50886638691287040 - #154
+
+@piotrr70 #thatcamp full description of our "freemium" model : http://www.openedition.org/%3Fid%3D8873%26lang%3Den
+Thu, 24 Mar 2011 11:49:13 - tweet id 50886885962297345 - #155
+
+@inactinique RT @piotrr70: #thatcamp full description of our "freemium" model : http://www.openedition.org/%3Fid%3D8873%26lang%3Den
+Thu, 24 Mar 2011 11:49:49 - tweet id 50887034818142208 - #156
+
+@amandafrench RT @inactinique: RT @marionlame: Follow @THATCampFirenze on Twitter #thatcamp
+Thu, 24 Mar 2011 11:50:41 - tweet id 50887253806948352 - #157
+
+@inactinique And tweet! RT @amandafrench: Follow @THATCampFirenze on Twitter #thatcamp
+Thu, 24 Mar 2011 11:51:11 - tweet id 50887378813988864 - #158
+
+@marionlame it's fundamental a continuous monitoring and maintenance of the archived data. #thatcamp a classical truism
+Thu, 24 Mar 2011 11:51:13 - tweet id 50887388255354880 - #159
+
+@WaltherH RT @amandafrench: RT @inactinique: RT @marionlame: Follow @THATCampFirenze on Twitter #thatcamp
+Thu, 24 Mar 2011 11:51:50 - tweet id 50887542924521472 - #160
+
+@gerbenzaagsma RT @marionlame: Follow @THATCampFirenze on Twitter #thatcamp
+Thu, 24 Mar 2011 11:52:30 - tweet id 50887710029774848 - #161
+
+@infoclio Openedition.org = 300 revues et collections; 180 blogs; 15'000 events #thatcamp
+Thu, 24 Mar 2011 11:52:56 - tweet id 50887820046381056 - #162
+
+@aurelberra RT @wilkohardenberg: RT @piotrr70: #thatcamp Paris1 people call for a common list of skills for DH teaching through europe
+Thu, 24 Mar 2011 11:54:15 - tweet id 50888152109416448 - #163
+
+@Emmamgsid le bon lien sur le screen cast omeka http://omeka.org/codex/Managing_Collections @emchateau #thatcamp
+Thu, 24 Mar 2011 11:55:55 - tweet id 50888573204963328 - #164
+
+@piotrr70 RT @infoclio: Openedition.org = 300 revues et collections; 180 blogs; 15'000 events #thatcamp
+Thu, 24 Mar 2011 11:56:49 - tweet id 50888796367101952 - #165
+
+@marionlame @roncaglia manchi allo #thatcamp. Ho preso foto del tuo intervento all'Istituto Italiano di Cultura a Parigi. Un giorno, le metto su FB.
+Thu, 24 Mar 2011 11:57:00 - tweet id 50888843108417536 - #166
+
+@marionlame #isidore VS Assets 4 ? => see u at the meeting in Paris #thatcamp
+Thu, 24 Mar 2011 12:01:28 - tweet id 50889966850555904 - #167
+
+@medieviz Isidore...Europeana...so small world...#Europeana #ThatCamp
+Thu, 24 Mar 2011 12:02:13 - tweet id 50890154734403584 - #168
+
+@roncaglia @marionlame grazie purtroppo influenzato ho dovuto saltare ThatCamp
+Thu, 24 Mar 2011 12:10:45 - tweet id 50892305405718528 - #169
+
+@pmhswe RT @amandafrench: Stefan pointing out that modeling linked open data is a task for digital humanities scholars -- "digital heuristics." #thatcamp
+Thu, 24 Mar 2011 12:34:30 - tweet id 50898281110315009 - #170
+
+@aurelberra A list of technology and #digitalhumanities blogs on Hypotheses.org: http://t.co/udd3dK5 #thatcamp
+Thu, 24 Mar 2011 12:44:41 - tweet id 50900845159645184 - #171
+
+@digicurator RT @amandafrench: Stefan pointing out that modeling linked open data is a task for digital humanities scholars -- "digital heuristics." #thatcamp
+Thu, 24 Mar 2011 13:05:07 - tweet id 50905985002373121 - #172
+
+@rogerwhitson @chouxsalad @zachwhalen You should have gotten an email about it. Did you? Yay #thatcamp!
+Thu, 24 Mar 2011 13:09:41 - tweet id 50907137156714496 - #173
+
+@RBTatAHA A THATCamper argues history should not be collaborative and technology should adapt to the users: http://bit.ly/hvpmi8 .
+Thu, 24 Mar 2011 13:12:00 - tweet id 50907718545969152 - #174
+
+@DocDryade RT @aurelberra: A list of technology and #digitalhumanities blogs on Hypotheses.org: http://t.co/udd3dK5 #thatcamp
+Thu, 24 Mar 2011 13:13:15 - tweet id 50908031948566528 - #175
+
+@amandafrench About to organize the unconference sessions for #THATCamp Firenze. Excited!
+Thu, 24 Mar 2011 13:27:13 - tweet id 50911547018575873 - #176
+
+@WaltherH Exiting! The first session of the in-conference we will decide what we will discuss during the rest of the time. #thatcamp
+Thu, 24 Mar 2011 13:29:05 - tweet id 50912018605162496 - #177
+
+@marindacos A Florence depuis hier soir, pour THATCamp Florence. Ai beaucoup causé ce matin. Maintenant, j'écoute! #THATCamp
+Thu Mar 24 13:34:05 2011 - tweet id 50913276208488448 - #178
+
+@gchomatas OpenEdition http://t.co/geY4On5 brings a publishing framework to the academic community through a Freemium Business Model #THATCamp
+Thu Mar 24 13:37:27 2011 - tweet id 50914124632297472 - #179
+
+@cliotropic RT @RBTatAHA: A THATCamper argues history should not be collaborative and technology should adapt to the users: http://bit.ly/hvpmi8 .
+Thu, 24 Mar 2011 13:37:31 - tweet id 50914141082365952 - #180
+
+@piotrr70 RT @aurelberra: A list of technology and #digitalhumanities blogs on Hypotheses.org: http://t.co/udd3dK5 #thatcamp
+Thu Mar 24 13:39:39 2011 - tweet id 50914676325888000 - #181
+
+@Trapelicino Now I'm discovering what a THATCamp is! #THATCAMP
+Thu, 24 Mar 2011 13:40:55 - tweet id 50914994145075200 - #182
+
+@blowoutcomb RT @RBTatAHA: A THATCamper argues history should not be collaborative and technology should adapt to the users: http://bit.ly/hvpmi8 .
+Thu, 24 Mar 2011 13:41:03 - tweet id 50915029784080385 - #183
+
+@THATCampFirenze In the Teatro room, @amandafrench explaining how a THATCamp is organized. #thatcamp
+Thu, 24 Mar 2011 13:46:41 - tweet id 50916448264134657 - #184
+
+@EinAtlanta Point. RT @RBTatAHA: Argument That history should not be collaborative and technology should adapt to the users: http://bit.ly/hvpmi8
+Thu, 24 Mar 2011 13:47:35 - tweet id 50916673691197441 - #185
+
+@marionlame DH manifesto English : http://tcp.hypotheses.org/411 #thatcamp
+Thu, 24 Mar 2011 13:47:50 - tweet id 50916737792741376 - #186
+
+@marionlame DH manifesto English : http://tcp.hypotheses.org/411 #thatcamp
+Thu Mar 24 13:47:50 2011 - tweet id 50916737792741376 - #187
+
+@THATCampFirenze RT @marionlame: DH manifesto English : http://tcp.hypotheses.org/411 #thatcamp
+Thu, 24 Mar 2011 13:49:32 - tweet id 50917163481042944 - #188
+
+@marionlame twitte désormais également sous le nom @THATCampFirenze #thatcamp
+Thu, 24 Mar 2011 13:50:39 - tweet id 50917443039801344 - #189
+
+@sergenoiret RT @marionlame: DH manifesto English : http://tcp.hypotheses.org/411 #thatcamp
+Thu, 24 Mar 2011 13:50:47 - tweet id 50917478741704704 - #190
+
+@sergenoiret RT @marionlame: DH manifesto English : http://tcp.hypotheses.org/411 #thatcamp
+Thu Mar 24 13:50:47 2011 - tweet id 50917478741704704 - #191
+
+@sergenoiret RT @THATCampFirenze: In the Teatro room, @amandafrench explaining how a THATCamp is organized. #thatcamp
+Thu, 24 Mar 2011 13:50:55 - tweet id 50917510878461952 - #192
+
+@marindacos Je vois "# Personal publishing, (Looking for Coordinators, requests at EUI)" : ça veut dire quoi, personal publishing ? #thatcamp
+Thu, 24 Mar 2011 13:54:05 - tweet id 50918309469761536 - #193
+
+@marindacos RT @marionlame: DH manifesto English : http://tcp.hypotheses.org/411 #thatcamp
+Thu, 24 Mar 2011 13:55:01 - tweet id 50918543021191168 - #194
+
+@THATCampFirenze here we use PAPER to write down our ideas. #thatcamp
+Thu, 24 Mar 2011 13:57:53 - tweet id 50919267079688193 - #195
+
+@THATCampFirenze you can sign the DH Manifesto on the wiki here: http://www.digitalhumanities.cnrs.fr/wikis/tcp/index.php%3Ftitle%3DManifeste #thatcamp
+Thu, 24 Mar 2011 13:58:30 - tweet id 50919420993875968 - #196
+
+@inactinique RT @THATCampFirenze: you can sign the DH Manifesto on the wiki here: http://www.digitalhumanities.cnrs.fr/wikis/tcp/index.php%3Ftitle%3DManifeste #thatcamp
+Thu, 24 Mar 2011 13:58:41 - tweet id 50919467055718400 - #197
+
+@THATCampFirenze DH manifesto English : http://tcp.hypotheses.org/411 #thatcamp
+Thu, 24 Mar 2011 13:58:58 - tweet id 50919537662640128 - #198
+
+@THATCampFirenze DH manifesto English : http://tcp.hypotheses.org/411 #thatcamp
+Thu Mar 24 13:58:58 2011 - tweet id 50919537662640128 - #199
+
+@Trapelicino @THATCampFirenze You steal my question!!! It's really strange using paper here #THATCAMP
+Thu, 24 Mar 2011 13:59:08 - tweet id 50919580608118785 - #200
+
+@infoclio Just proposed a #THATcamp session...
+Thu, 24 Mar 2011 14:04:10 - tweet id 50920847938039808 - #201
+
+@medieviz joyeux bordel #THATcamp
+Thu, 24 Mar 2011 14:04:29 - tweet id 50920926946140160 - #202
+
+@PerseeFr Anyone knowlegeable about OCR systems in Arabic/Thai/Chinese/... scripts? #THATCamp
+Thu, 24 Mar 2011 14:06:39 - tweet id 50921473006764033 - #203
+
+@paregorios busy twitter day following not just #pelagios but #thatcamp (thanks @marionlame & @amandafrench) too - digital humanities, geo, linked data
+Thu, 24 Mar 2011 14:06:52 - tweet id 50921524605104129 - #204
+
+@paregorios MT @amandafrench: Stefan: modeling linked open data is task for digital humanities scholars -- "digital heuristics." #thatcamp viz #pelagios
+Thu, 24 Mar 2011 14:07:51 - tweet id 50921772438126592 - #205
+
+@stakats @thatcampfirenze THATCampers now proposing sessions in Florence. Zotero API workshop, anyone? #thatcamp
+Thu Mar 24 14:10:10 2011 - tweet id 50922356239114240 - #206
+
+@amyschexnayder Woohoo! I was awarded a @THATCamp Fellowship for @THATCampTexas at Rice University. #DigitalHumanities FTW!
+Thu, 24 Mar 2011 14:13:09 - tweet id 50923107317329921 - #207
+
+@inactinique Yes! RT @stakats: @thatcampfirenze THATCampers now proposing sessions in Florence. Zotero API workshop, anyone? #thatcamp
+Thu, 24 Mar 2011 14:21:47 - tweet id 50925281074102273 - #208
+
+@infoclio RT @stakats: @thatcampfirenze THATCampers now proposing sessions in Florence. Zotero API workshop, anyone? #thatcamp
+Thu, 24 Mar 2011 14:22:32 - tweet id 50925468140056576 - #209
+
+@WaltherH Am unconference is fun. Deciding what to discuss is a little like a market, but a great way to interact with other participants #thatcamp
+Thu, 24 Mar 2011 14:45:20 - tweet id 50931204572188672 - #210
+
+@medieviz Saintes Ontologies: on ne demande que cela #THATcamp
+Thu, 24 Mar 2011 14:58:15 - tweet id 50934457229770752 - #211
+
+@WaltherH About to start first session. Topic: XML #thatcamp
+Thu, 24 Mar 2011 15:37:08 - tweet id 50944241827983360 - #212
+
+@amandafrench RT @WaltherH: Am unconference is fun. Deciding what to discuss is a little like a market, but a great way to interact with others #thatcamp
+Thu, 24 Mar 2011 15:38:11 - tweet id 50944506283040768 - #213
+
+@THATCampFirenze DH for beginners : let's list what we heard & don't know! #thatcamp
+Thu, 24 Mar 2011 15:42:28 - tweet id 50945584579887107 - #214
+
+@THATCampFirenze The THATCamp Florence unconference schedule is up at http://thatcampflorence.org/programme
+Thu, 24 Mar 2011 15:44:41 - tweet id 50946143009505280 - #215
+
+@piotrr70 #thatcamp @inactinique presents crowdsourcing for historians workshop. Example of CHNM sept 11 digital archive http://911digitalarchive.org/
+Thu, 24 Mar 2011 15:46:04 - tweet id 50946488636936192 - #216
+
+@infoclio We built it together. #Thatcamp Florence program is now online. http://goo.gl/SI1FC
+Thu, 24 Mar 2011 15:51:41 - tweet id 50947902427758592 - #217
+
+@devonelliott Adding Great Lakes #THATCamp folks to my twitter feed -- so many interesting people!
+Thu, 24 Mar 2011 15:51:45 - tweet id 50947920308084736 - #218
+
+@marionlame RT @infoclio: We built it together. #Thatcamp Florence program is now online. http://goo.gl/SI1FC
+Thu, 24 Mar 2011 15:57:42 - tweet id 50949416743485440 - #219
+
+@piotrr70 #thatcamp Crowdsourcing transcription of Bentham http://www.transcribe-bentham.da.ulcc.ac.uk/
+Thu, 24 Mar 2011 16:01:07 - tweet id 50950276391243777 - #220
+
+@THATCampFirenze DH for beginners : participant are listing what they know and sharing it with each other #thatcamp
+Thu, 24 Mar 2011 16:01:40 - tweet id 50950414832644097 - #221
+
+@openeditionsays RT @infoclio: We built it together. #Thatcamp Florence program is now online. http://goo.gl/SI1FC
+Thu, 24 Mar 2011 16:01:55 - tweet id 50950480595140608 - #222
+
+@marionlame RT @THATCampFirenze: DH for beginners : participant are listing what they know and sharing it with each other #thatcamp
+Thu, 24 Mar 2011 16:02:17 - tweet id 50950571301154816 - #223
+
+@openeditionsays RT @THATCampFirenze: DH manifesto English : http://tcp.hypotheses.org/411 #thatcamp
+Thu, 24 Mar 2011 16:02:56 - tweet id 50950736120520706 - #224
+
+@Emmamgsid #thatcamp : émoi dans la salle au nom de l'IRHT... (ontologies session)
+Thu, 24 Mar 2011 16:04:23 - tweet id 50951101616365568 - #225
+
+@THATCampFirenze DH for beginners : let's speak about Moodle ! http://moodle.org/ #thatcamp
+Thu, 24 Mar 2011 16:04:54 - tweet id 50951229492301824 - #226
+
+@Emmamgsid #thatcamp : je voulais dire : émoi admiratif parmi l'assistance !
+Thu, 24 Mar 2011 16:05:17 - tweet id 50951327970377728 - #227
+
+@gerbenzaagsma @THATCampFirenze beginners DH session, useful diigital toolbox in french and german here: http://is.gd/k7CAC6 #thatcamp
+Thu, 24 Mar 2011 16:05:31 - tweet id 50951385029689345 - #228
+
+@sergenoiret @thatcampfirenze "real" #thatcamp now: problems crowdsourcing and UGT: which typologies of crowdsourcing activities ?
+Thu Mar 24 16:08:53 2011 - tweet id 50952230710427649 - #229
+
+@infoclio Ontology workshop at #thatcamp: Approaches go from theory to pragmatic classification needs.
+Thu, 24 Mar 2011 16:08:53 - tweet id 50952231842881536 - #230
+
+@Emmamgsid #thatcamp : the answer = because every body is working with databases which are easier to handle !
+Thu, 24 Mar 2011 16:09:22 - tweet id 50952352211013632 - #231
+
+@infoclio "Every one talks about ontologies because everyone is using databases." #thatcamp #ontology
+Thu, 24 Mar 2011 16:09:40 - tweet id 50952431340756992 - #232
+
+@Emmamgsid #thatcamp ... but ontologies are more expressive
+Thu Mar 24 16:10:14 2011 - tweet id 50952571195629568 - #233
+
+@wilkohardenberg RT @infoclio: We built it together. #Thatcamp Florence program is now online. http://goo.gl/SI1FC
+Thu, 24 Mar 2011 16:12:43 - tweet id 50953197564600321 - #234
+
+@sergenoiret @thatcampfirenze "real" #thatcamp now: many different ways to contribute to contents but how peerage and filtering are done
+Thu, 24 Mar 2011 16:16:54 - tweet id 50954249563148289 - #235
+
+@Emmamgsid #thatcamp ontologies - booster shot about entity-relationship diagram, from the 70ies
+Thu, 24 Mar 2011 16:19:14 - tweet id 50954837902364672 - #236
+
+@infoclio 1974 - Birth of the Entity Relational Model which gave birth to Relational Databases #thatcamp
+Thu, 24 Mar 2011 16:19:36 - tweet id 50954927673049088 - #237
+
+@Emmamgsid #thatcamp ontologies: rdf stays at the same abstraction level as the model, you don't have to translate it in an another logic as in ERD...
+Thu Mar 24 16:22:04 2011 - tweet id 50955551693225984 - #238
+
+@Emmamgsid #thatcamp - ontologies - mapping a document in the relationnal model is very hard
+Thu, 24 Mar 2011 16:23:26 - tweet id 50955895366107136 - #239
+
+@sergenoiret @thatcampfirenze "real" #thatcamp now: crowdsourcing related to rewarding, filtering, visibility and ???
+Thu, 24 Mar 2011 16:23:53 - tweet id 50956008587132928 - #240
+
+@medieviz Database vs. Document.RDF wins? #ontology #THATcamp
+Thu, 24 Mar 2011 16:23:54 - tweet id 50956009816072193 - #241
+
+@infoclio The "Documents community" and the "Databases community" have always been fighting together. #thatcamp
+Thu Mar 24 16:24:08 2011 - tweet id 50956071849836544 - #242
+
+@sergenoiret @thatcampfirenze "real" #thatcamp now: giving possibility to verify research is also crowdsourcing ?
+Thu, 24 Mar 2011 16:25:34 - tweet id 50956430769004545 - #243
+
+@inactinique RT @sergenoiret: @thatcampfirenze "real" #thatcamp now: giving possibility to verify research is also crowdsourcing ?
+Thu, 24 Mar 2011 16:25:50 - tweet id 50956499937280001 - #244
+
+@benwbrum RT @infoclio: We built it together. #Thatcamp Florence program is now online. http://goo.gl/SI1FC
+Thu, 24 Mar 2011 16:27:12 - tweet id 50956841890492416 - #245
+
+@Emmamgsid #thatcamp ontologies: many ontologies, 2 schools: domain centric (specialized) vs a generic model usable by every body...
+Thu, 24 Mar 2011 16:27:58 - tweet id 50957036439076864 - #246
+
+@sergenoiret @thatcampfirenze "real" #thatcamp now: verifying scholarly knowladge by others who could chalenge it is also crowdsourcing ?
+Thu, 24 Mar 2011 16:28:32 - tweet id 50957176012943360 - #247
+
+@Mareike2405 RT @gerbenzaagsma: @THATCampFirenze beginners DH session, useful diigital toolbox in french and german here: http://is.gd/k7CAC6 #thatcamp
+Thu, 24 Mar 2011 16:29:41 - tweet id 50957465759653888 - #248
+
+@sergenoiret @thatcampfirenze "real" #thatcamp now: crowdsourcing websites mentioned: translating bentham, parallel archive, memoro.org, thecommons
+Thu, 24 Mar 2011 16:30:22 - tweet id 50957638913101824 - #249
+
+@medieviz If we built a common standard conceptual model about mss with ontologies? Shared question in the audience #ontology #ThatCamp
+Thu, 24 Mar 2011 16:30:45 - tweet id 50957733733744640 - #250
+
+@Emmamgsid #thatcamp : a root of abstract concept, domain independant ? idealism and philosophy at the heart of the digital humanities ?
+Thu, 24 Mar 2011 16:31:19 - tweet id 50957877405425664 - #251
+
+@sergenoiret RT @gerbenzaagsma: @THATCampFirenze beginners DH session, useful digital toolbox in french and german here: http://is.gd/k7CAC6 #thatcamp
+Thu, 24 Mar 2011 16:33:16 - tweet id 50958369426636800 - #252
+
+@inactinique RT @sergenoiret: RT @gerbenzaagsma: @THATCampFirenze beginners DH session, useful digital toolbox in french and german here: http://is.gd/k7CAC6 #thatcamp
+Thu, 24 Mar 2011 16:33:26 - tweet id 50958411063504896 - #253
+
+@Emmamgsid RT @sergenoiret: RT @gerbenzaagsma: @THATCampFirenze beginners DH session, useful digital toolbox in french and german here: http://is.gd/k7CAC6 #thatcamp
+Thu, 24 Mar 2011 16:37:23 - tweet id 50959405746880512 - #254
+
+@inactinique RT @infoclio: @THATCampFirenze Our digital toolbox is open for tools proposals ! #thatcamp
+Thu, 24 Mar 2011 16:38:25 - tweet id 50959662874492928 - #255
+
+@sergenoiret @thatcampfirenze validating, filtering, peerage, etc., are they central issues of DH and not only about crowdsourcing and UGC ? #thatcamp
+Thu, 24 Mar 2011 16:42:06 - tweet id 50960592118349824 - #256
+
+@Emmamgsid #thatcamp - ontologies - good point about not wanting to learn technical skills : would you study latin poetry without learning latin ?
+Thu, 24 Mar 2011 16:42:56 - tweet id 50960799409242112 - #257
+
+@sergenoiret @infoclio @THATCampFirenze #thatcamp: in our crowdsourcing atelier we think filtering validating should be essential in a digital toolbox
+Thu, 24 Mar 2011 16:45:07 - tweet id 50961351971045376 - #258
+
+@WaltherH @markuitheiloo net even een eadfile gedownload voor een demo over XML hier bij het THATCamp :-)
+Thu, 24 Mar 2011 16:45:50 - tweet id 50961533164990464 - #259
+
+@benwbrum @sergenoiret @infoclio why filtering/validation of user-created data rather than multiple entry and reconciliation? #thatcamp
+Thu, 24 Mar 2011 16:46:37 - tweet id 50961730326634496 - #260
+
+@Emmamgsid #thatcamp : modeling ontologies is not perceived by scholar humanists as part of their work - but should
+Thu, 24 Mar 2011 16:46:39 - tweet id 50961736047656961 - #261
+
+@infoclio "Modeling ontologies is not perceived as part of the work of humanities scholars" #thatcamp #ontology
+Thu, 24 Mar 2011 16:46:42 - tweet id 50961749255520256 - #262
+
+@Pictura_Heiloo RT @WaltherH: @markuitheiloo net even een eadfile gedownload voor een demo over XML hier bij het THATCamp :-)
+Thu, 24 Mar 2011 16:46:44 - tweet id 50961756864000000 - #263
+
+@sergenoiret @infoclio @THATCampFirenze #THATCAMP for instance the work we do referencing primary sources web sites: EHPS, http://primary-sources.eui.eu
+Thu, 24 Mar 2011 16:51:16 - tweet id 50962898360610816 - #264
+
+@tmpopp RT @amandafrench: Stefan pointing out that modeling linked open data is a task for digital humanities scholars -- "digital heuristics." #thatcamp
+Thu, 24 Mar 2011 16:55:33 - tweet id 50963974702899200 - #265
+
+@gerbenzaagsma RT @sergenoiret: @infoclio @THATCampFirenze #THATCAMP for instance the work we do referencing primary sources web sites: EHPS, http://pr ...
+Thu Mar 24 16:55:41 2011 - tweet id 50964009872146432 - #266
+
+@Emmamgsid #thatcamp - ontologies -foundational model of pinakes showed
+Thu, 24 Mar 2011 16:56:53 - tweet id 50964311404838913 - #267
+
+@infoclio Conceptual models and ontologies are not yet shared across disciplines but information on the web is ! #thatcamp
+Thu, 24 Mar 2011 16:57:56 - tweet id 50964576983977984 - #268
+
+@sergenoiret RT @gerbenzaagsma: @THATCampFirenze #THATCAMP tom morning session finding online primary sources, basic doc @ http://tinyurl.com/6g8sez2, add your comments.
+Thu, 24 Mar 2011 17:00:33 - tweet id 50965233530974209 - #269
+
+@medieviz "Use ontologies or die!" #ontology #ThatCamp
+Thu, 24 Mar 2011 17:00:53 - tweet id 50965317618368512 - #270
+
+@medieviz What appears to me is that we have to take a view of our datas "from Sirius". #ontology #ThatCamp
+Thu, 24 Mar 2011 17:02:56 - tweet id 50965836508307459 - #271
+
+@infoclio RT @sergenoiret: @infoclio @THATCampFirenze #THATCAMP for instance the work we do referencing primary sources web sites: EHPS, http://pr ...
+Thu Mar 24 17:03:03 2011 - tweet id 50965864442372096 - #272
+
+@paregorios getting concerned by the non-critical, context-free #ontology worship surfacing from #thatcamp ... "use or die"? really? #interrobang
+Thu, 24 Mar 2011 17:04:49 - tweet id 50966309407694848 - #273
+
+@infoclio Logic + Computers + Philosophy = ontologies #thatcamp #c'esttrèscompliqué
+Thu, 24 Mar 2011 17:04:52 - tweet id 50966319859904512 - #274
+
+@Mat_Hardy #thatcamp looks like some people will be in three sessions at once!
+Thu Mar 24 23:05:00 2011 - tweet id 51056952054251520 - #275
+
+@asaletourneau 'EML not as sexy sounding as XML' - Conal stardate 2011-03-25 #THATcamp
+Fri Mar 25 00:03:36 2011 - tweet id 51071699147431936 - #276
+
+@1n9r1d RT @littleread: "Animating change through time" makes Derrida's ideas of temporality, signature, and presence seem very simple #thatcamp
+Fri Mar 25 01:05:42 2011 - tweet id 51087326616629248 - #277
+
+@jondresner RT @Airminded: 'Future-proofing? We're not even present-proofing!' #THATCamp
+Fri Mar 25 02:31:14 2011 - tweet id 51108850702630912 - #278
+
+@Mat_Hardy www.australiansatwarfilmarchive.gov.au makes an appearance at #thatcamp
+Fri Mar 25 03:01:31 2011 - tweet id 51116470830239744 - #279
+
+@Airminded Can use old 19th century classification systems alongside the new XML ones! Not a threat! #THATCamp
+Fri Mar 25 03:06:48 2011 - tweet id 51117802588876800 - #280
+
+@KristyKFox RT @Mat_Hardy: www.australiansatwarfilmarchive.gov.au makes an appearance at #thatcamp
+Fri Mar 25 03:12:05 2011 - tweet id 51119132866904064 - #281
+
+@1n9r1d @rhizomedigital Indeed. What's the issue you perceive here in relation to YouTube events? #thatcamp
+Fri Mar 25 03:55:59 2011 - tweet id 51130178553921538 - #282
+
+@ragamouf http://www.foundersandsurvivors.org/ mentioned in #crowdsourcing #thatcamp fabulous site!
+Fri Mar 25 04:01:31 2011 - tweet id 51131574426681344 - #283
+
+@rhizomedigital RT @mediagirrl: #THATcamp as Deb V points out there is a lag in the conceptual understandings of collection agencies about the value of ...
+Fri Mar 25 04:09:03 2011 - tweet id 51133466527547392 - #284
+
+@bestqualitycrab #THATcamp Comment: need to find balance bw designing complex systems that can't be built and ease of use by record keepers and researchers
+Fri Mar 25 04:10:28 2011 - tweet id 51133824473640960 - #285
+
+@pwlarthur Infrastructure Roadmap paper release has HASS focus http://www.innovation.gov.au/SCIENCE/RESEARCHINFRASTRUCTURE/Pages/default.aspx #THATCamp
+Fri Mar 25 04:34:27 2011 - tweet id 51139862052610049 - #286
+
+@bestqualitycrab #THATcamp drinks finished. Hilarious time reminiscing about misperceived moments and the bad behavior of people who should know better.
+Fri Mar 25 08:22:44 2011 - tweet id 51197307722534912 - #287
+
+@sleonchnm Visualization of large data sets conversation at #THATCamp Florence
+Fri Mar 25 08:41:51 2011 - tweet id 51202121021915136 - #288
+
+@marindacos On parle trop des DH entre nous. Comment en parler à l'extérieur ? #thatcamp
+Fri Mar 25 08:44:41 2011 - tweet id 51202835601305601 - #289
+
+@marionlame Finding and filtering primary sources #thatcamp
+Fri Mar 25 08:49:01 2011 - tweet id 51203925411495936 - #290
+
+@marionlame Finding and filtering primary sources #thatcamp
+Fri Mar 25 08:49:01 2011 - tweet id 51203925411495936 - #291
+
+@marindacos How DH can be connected to the OPENDATA movement (data opened by gvt for citizens). In DH we have our own opendata movement #thatcamp
+Fri Mar 25 08:51:32 2011 - tweet id 51204559258910720 - #292
+
+@sergenoiret @THATCampFirenze discussing filtering primary digital sources using EHPS, #THATCamp, http://primary-sources.eui.eu/
+Fri Mar 25 08:58:30 2011 - tweet id 51206311425212416 - #293
+
+@gerbenzaagsma RT @marindacos: On parle trop des DH entre nous. Comment en parler à l'extérieur ? #thatcamp
+Fri Mar 25 09:07:33 2011 - tweet id 51208586575085568 - #294
+
+@marionlame Historian, you'fe in love with your primary sources ? Visit: http://www.ena.lu/ #thatcamp
+Fri Mar 25 09:18:19 2011 - tweet id 51211298482044929 - #295
+
+@Ghislain Look HTML5 technologies in action with Mozilla demos http://t.co/DLEZNSu #THATCamp
+Fri Mar 25 09:33:20 2011 - tweet id 51215077772247040 - #296
+
+@Ghislain Make your data beautiful with http://t.co/dhY0IhD #THATCamp
+Fri Mar 25 09:41:20 2011 - tweet id 51217088613842944 - #297
+
+@Trapelicino A Nobel for DH... asking to google? #THATCAMP
+Fri Mar 25 09:43:58 2011 - tweet id 51217752446341120 - #298
+
+@Ghislain Would like to know about browsers readiness for HTML5 and CSS3? Go to http://t.co/HGpWgXM #THATCamp
+Fri Mar 25 09:46:32 2011 - tweet id 51218396808884224 - #299
+
+@wilkohardenberg RT @inactinique: Are you looking for tools in DH - see Lisa Spiro's Digital Research Tools Wiki: http://bit.ly/fKRc59 #thatcamp
+Fri Mar 25 09:54:41 2011 - tweet id 51220450742767616 - #300
+
+@marindacos I suggest a "DH night" and a Noble prize for DH to make the results visible. #thatcamp
+Fri Mar 25 10:01:44 2011 - tweet id 51222223880593408 - #301
+
+@inactinique @infoclio We could imagine another one: "DH: just do it!" - but it might be already in use #thatcamp
+Fri Mar 25 10:02:23 2011 - tweet id 51222385898164224 - #302
+
+@THATCampFirenze RT @marindacos: I suggest a "DH night" and a Noble prize for DH to make the results visible. #thatcamp
+Fri Mar 25 10:03:06 2011 - tweet id 51222569826783233 - #303
+
+@Trapelicino @amandafrench It is good they are smiling and not crying! ;-) #THATCAMP
+Fri Mar 25 10:48:00 2011 - tweet id 51233866781966337 - #304
+
+@Trapelicino Pranav Mistrt at TED India conference http://www.ted.com/talks/pranav_mistry_the_thrilling_potential_of_sixthsense_technology.html #THATCAMP
+Fri Mar 25 11:02:22 2011 - tweet id 51237483811319809 - #305
+
+@amandafrench Also Mahout -- server software to make data mining easy: http://mahout.apache.org/ #thatcamp
+Fri Mar 25 11:12:10 2011 - tweet id 51239948615041024 - #306
+
+@marionlame en envolées proustiennes sur son CR Zotero : 1 phrase, 8 ligne. Manque qq imprafaits du subjonctif @inactinique #thatcamp
+Fri Mar 25 11:27:05 2011 - tweet id 51243704194830336 - #307
+
+@amandafrench National Centre for Text Mining: http://www.nactem.ac.uk/ #thatcamp
+Fri Mar 25 12:00:56 2011 - tweet id 51252223505739776 - #308
+
+@WaltherH Next session: Omeka and Wordpress CMS usecases. #thatcamp
+Fri Mar 25 13:31:20 2011 - tweet id 51274970961158145 - #309
+
+@sergenoiret RT @infoclio: 5 years Cursus in Digital Humanities in Uni. Pisa: Informatica Umanistica @THATCampFirenze http://j.mp/fDLpGQ #thatcamp
+Fri Mar 25 13:55:45 2011 - tweet id 51281114626670592 - #310
+
+@kouriati @amandafrench @gchomatas brainstormed us with tools for #textmining #thatcamp :)
+Fri Mar 25 14:14:42 2011 - tweet id 51285886456958976 - #311
+
+@sergenoiret @thatcampfirenze Last sessions of #THATCamp Florence, now zeitgeist about dh in Italy http://bit.ly/gEMt6i
+Fri Mar 25 14:25:55 2011 - tweet id 51288708686675968 - #312
+
+@sergenoiret @thatcampfirenze would it be better to think in terms of centers for digital history digital literature digital philo etc.. ? #THATcamp
+Fri Mar 25 14:53:29 2011 - tweet id 51295643855106048 - #313
+
+@Trapelicino @sergenoiret @thatcampfirenze Digital Humanities Center #THATCamp
+Fri Mar 25 14:56:03 2011 - tweet id 51296289601761281 - #314
+
+@inactinique RT @nicolasthely: #thatcamp an exemple of Digital archives on contemporary art (Paris) http://goo.gl/Nwoel
+Fri Mar 25 15:01:24 2011 - tweet id 51297639219732480 - #315
+
+@thatcamp Grazie, grazie, #THATCamp Firenze! Thanks to you all: you are marvelous. Please evaluate at http://surveymonkey.com/s/thatcampeval
+Fri Mar 25 17:22:54 2011 - tweet id 51333248848117760 - #316
+
+@THATCampFirenze RT @thatcamp: Grazie, grazie, #THATCamp Firenze! Thanks to you all: you are marvelous. Please evaluate at http://surveymonkey.com/s/that ...
+Fri Mar 25 18:28:26 2011 - tweet id 51349737160454144 - #317
+
+@claudinec Spatio-temporal Google Earth fun #thatcamp melbourne
+Fri Mar 25 22:15:50 2011 - tweet id 51406966773383168 - #318
+
+@claudinec Scholarly data reputation management and crowdsourcing? #thatcamp
+Fri Mar 25 23:48:09 2011 - tweet id 51430199014862850 - #319
+
+@Airminded Crowdsourcing used to fill the gaps, make the database more comprehensive. But how to do this within academic funding structure? #THATCamp
+Fri Mar 25 23:52:59 2011 - tweet id 51431416864587776 - #320
+
+@littleread RT @infoclio: "Digital History is not a profession, it has to be a collaborative project." #thatcamp
+Sat Mar 26 00:00:34 2011 - tweet id 51433321930043392 - #321
+
+@Airminded No love for the ERA here. Talk of resistance, alternative metrics. #THATCamp
+Sat Mar 26 00:18:41 2011 - tweet id 51437882287734784 - #322
+
+@Airminded As far as I'm concerned, alternative metrics = social fascism #editorialcomment #deliberatelyinflammatory #THATCamp
+Sat Mar 26 00:21:15 2011 - tweet id 51438528437030912 - #323
+
+@AlienWeedMan I've had a great time at #THATCamp Florence. And - bonus! - I can almost see my planet from the top of Giotto's Campanile.
+Sat Mar 26 09:05:11 2011 - tweet id 51570382423080960 - #324
+
+@Trapelicino Sorry I can't be there! Thank Serge and bye bye to everyone. It has been a wonderful experience #thatcamp
+Sat Mar 26 09:11:06 2011 - tweet id 51571867567394816 - #325
+
+@marindacos The ongoing costs are a BIG issue for DH in platforms and DH centers.We NEED a collective, national, europan or worldwide solution #ThatCamp
+Sat Mar 26 09:30:39 2011 - tweet id 51576789092405248 - #326
+
+@marindacos RT @THATCampFirenze: #thatcamp Sustainability is an issue! why do not aggregate critical mass of projects?
+Sat Mar 26 09:37:04 2011 - tweet id 51578404855758848 - #327
+
+@wragge RT @thatcamp: Hey #THATCamp Melbourne folks, please fill out an evaluation: http://svy.mk/eHiIpU cc: @txtcraigbellamy
+Sat Mar 26 10:31:52 2011 - tweet id 51592194284462080 - #328

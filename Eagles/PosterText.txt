@@ -1,0 +1,85 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-04-01T13:27:37+02:00
+
+====== PosterText ======
+Created Friday 01 April 2011
+
+Introduction
+Captures and hunts of golden eagles (Aquila chrysaetos) – which,
+according to law, in 1939 were still considered noxious animals – were
+common in Italy at least until World War Two and led probably to a
+tendential reduction of their area of distribution.
+However, there are still few data available regarding the actual historical
+development of the golden eagle population in the Italian Alps. Here an
+attempt is made to depict at least the evolution of the spatial distribution
+of golden eagles in Trentino (Fig. 1) in the 20th century.
+Golden eagles live in couples, within extensive hunting areas in which
+they do not tolerate the presence of other eagles. Each couple owns more
+than one nest (3-4 in the average), concentrated in a small part of the
+hunting area termed nesting area. The hunting areas' surfaces vary
+greatly according to the availability of prey: the mean distance between
+the main nests of neighbouring couples in Trentino was, in 1984, of
+11,7km. Young eagles instead are not sedentary and move freely over
+great distances (Pedrini 1986, 2-4, 49).
+
+Analysis
+The references to eagle hunts and captures in the Alps of Trentino
+between 1880 and 1930 (Fig. 2) and the censuses of 1954 (brown
+dots) and 1983-85 (blue dots) (Fig. 3) have been geo-located,
+mapped and compared, as detailed in the Method and sources
+section, as to determine the changes in spatial distribution of golden
+eagles over time.
+Looking at Fig. 3 we can see how over a 30 years period there has
+been a certain consistency in the spatial distribution of eagles in
+Trentino. In particular three areas present a particularly high and
+consistent rate of sightings: the western region of the Parco Naturale
+Adamello-Brenta, the Valsugana, immediately at the east of Trento,
+and the Val di Fassa, in the extreme north-eastern corner of the
+province. No significant data are instead given by the 1954 census
+for the north-western Stelvio National Park. Looking at Fig. 2 we can
+instead notice how the hunts of the pre-WWII era were concentrated
+in the higly anthropised valley around Trento – not so much because
+of a greater presence of eagles in that area, but for the increased
+chances to be sighted by humans. The distribution pattern shows
+however also a good number of eagles hunted at the outskirts of the
+three areas mentioned above, proving that there are good chances
+that these have historically been the regions within Trentino with a
+stable eagle population.
+
+Methods and sources
+The available data on eagle sightings, hunts and captures have been
+mapped and compared using the QGis software.
+The main issue has been the geolocalization of references extracted
+from historical documents, which are often ambiguous. To ease the
+task the data regarding the hunts since the 19th century and the map
+of the census of 1983-85 have thus been extracted from Pedrini
+(1986). The data of 1954, gathered from the answers of the local
+forestry departments to a survey of the Italian National Research
+Council (Direzione regionale dei Servizi Forestali, 1954), located the
+eagles giving only place names, and using often obsolete, disused or
+plainly wrong toponyms. I have attempted to geolocate and
+disambiguate them as precisely as possible using an array of web
+sources (e.g. http://www.geonames.org, http://openstreetmaps.org,
+http://maps.google.com), personal knowledge of the territory and
+cross-references to current and historical descriptions of the area. A
+certain grade of inaccuracy and vagueness is however inevitable.
+Circles have been drawn around the sighting points as to approximate
+the couples' hunting areas; the diametre of the circles has been
+calculated on the basis of the observed mean distance between the
+nearest neighbours, which resulted to be very similar in the two
+datasets. To clean up the 1954 data from false positives and noise,
+when the circles overlapped for more than 50% I have assumed that
+the sightings referred to nests of the same territorial couple or to a
+roving young eagle and have chosen to keep only the median point.
+
+References, Credits and Acknowledgments
+Pedrini, Paolo (1986). Indagine sugli accipitriformi e falconiformi (Rapaci diurni) presenti nel Trentino, con
+particolare riferimento all’aquila reale (Aquila chrysaetos). Trento.
+Direzione regionale dei Servizi Forestali (1954). Indagine statistica sull’Aquila reale. Trento, May 3. IRF/4/130.
+Archivio Provinciale di Trento.
+Photo of the flying eagle by Chuck Abbe [CC-BY-2.0 (www.creativecommons.org/licenses/by/2.0)], via Wikimedia
+Commons (USA) http://commons.wikimedia.org/wiki/File:Golden_Eagle_flying.jpg
+Photo of the Sellajoch by Aconcagua (Own work) [CC-BY-SA-3.0 (www.creativecommons.org/licenses/by-sa/3.0)],
+via Wikimedia Commons http://commons.wikimedia.org/wiki/File:070406-10_Sellajoch.jpg
+This research has been made possible by a PAT2007 postdoc fellowship of the Provincia Autonoma di Trento

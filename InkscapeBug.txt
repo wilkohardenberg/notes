@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-04-03T19:07:01+02:00
+
+====== InkscapeBug ======
+Created Sunday 03 April 2011
+
+SVGs fail in embedding and scaling images
+
+If I try to open a SVG file created with Inkscape in another vector drawing software or a browser the overlaid images (embedded using the tool in --> Extensions) do not show up as if they referred still to xlinks. Moreover, the background image does not scale correctly in respect to the text. If I save the file instead as a PDF no problems arise and all images show up correctly.
+
+Inkscape 0.47 r22583 / Ubuntu 10.04

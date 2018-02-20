@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-03-25T09:50:23.130972
+
+====== DatasetVisualization ======
+Created Friday 25 March 2011
+
+E&S BEWARE there are plenty of geographical mislocations / needs fact checking
+
+http://geocommons.com
+
+how to handle date field? do we need dd&mm? how do we represent BC? or BCE?
+
+http://gapminder.org
+
+how do we share vizualizations?
+
+http://infosthetics.com
+
+http://code.google.com/apis/chart/
+
+http://republicofletters.stanford.edu
+
+http://www.aviz.fr/graphdice --> software made with humanists about how to visualize data
+
+http://www.lirmm.fr/~gambette/treecloud/ evolution of tagcloud (you can modify the stats used to build the tree)
+ 
+http://papercube.peterbergstrom.com/ 
+
+Keep it simple and do not let your programmers do the design.
+
+Vizualization as outreach, analysis tool or education? for all of the three you need different tools
+#And what about translation from one tool to the other if you visualize first for research and then for outreache/education???
+
+
+
+
+
+
+
+
+

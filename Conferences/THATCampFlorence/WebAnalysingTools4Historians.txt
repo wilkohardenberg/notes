@@ -1,0 +1,48 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-03-23T11:44:39.114870
+
+====== WebAnalysingTools4Historians ======
+Created Wednesday 23 March 2011
+
+rpad - more science oriented
+[[http://rstudio.org|rstudio.org]] new R IDE for Ubuntu (check against rkward) comes also with server version for sharing analysis
+
+wanted to produce something that was accustomed to the needs of an historian
+
+[[http://analyse.univ-paris1.fr|analyse.univ-paris1.fr]]
+[[http://pireh-dev.univ-paris1.fr|pireh-dev.univ-paris1.fr]]
+
+historians (as opposed to stats) feel free to do things that are note allowes: group data as to show what I am looking for (really???)
+
+This systems allows an historian to do stats without learnng a new software 
+
+looking at the data helps the historian to change the coding of given variables (learning by doing?)
+looking for a graphical representation that best suits my needs (cheating?)
+
+since we write (actually construct from archival data) our data as historians we feel allowed to correct the data according to their visualization
+
+need for sharing data in the historical community / 
+# need for open historical data repositories
+# it arises copyright issues with archives et al. (or doesn't it?)
+
+two different softwares: stat analysis
+
+- Historian as a critical being
+- historians ad their sources: a close relationship
+- Data process as a work process
+
+LIMITS: 1) many ways to history 2) Historian as an ogre: hungry for datas
+
+#[unrelated] [[http://onearth.jpl.nasa.gov|onearth.jpl.nasa.gov]] FREE WMS (if it is still working)
+
+how to use Business Intelligence for Historians
+Common problems  data integration because data come from heterogeneous and distributed sources
+Need to extract and transform data
+from -> being optimised for transaction to -> being optimised for analysis
+
+ETL [ectract/Transform/Lsomething] tools save time and money, since they avoid handcoding
+
+Pentaho open source BI product -> most comprehensive tool set / fastes t growing open source suite
+able to produce data for data mining (Kettle/Mondrian/JPivot/Weka(R)]
+Uses standalone Java engine [

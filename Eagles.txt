@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-03-18T15:50:10.134160
+
+====== Eagles ======
+Created Friday 18 March 2011
+
+[[+Title]] Golden eagles in the Alps. An historical population trend analysis.
+[[+Abstract]]
+[[+Methods]]
++Discussion
+[[+References]]
+[[+Contact]]
+[[+Images]]
+[[+PosterText]]
+

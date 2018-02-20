@@ -1,0 +1,51 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-03-23T14:52:56.400802
+
+====== Omeka ======
+Created Wednesday 23 March 2011
+
+simply it is an online collection catalogue
+
+Want to connect individual users to collections
+Plugin for social bookmarking/collection of content/commenting/feeds(RSS,XML,JSON,Atom...)
+
+Completely flexible (possibility to write themes as in [[WordPress]]) easily modified using PHP and CSS
+Full set of documentation and forums (in case of problems or issues)
+
+Moreover it has a robust Developer Community
+
+Plugins
+
+- Simple Pages -> possibility to add an about page or similar
+- Dropbox -> link Omeka to Dropbox  
+
+[[http://chnm.gmu.edu/workspace/playdate/admin|Omeka Playdate]] user: playdate pwd: playdate
+
+The one thing you cannot do is eliminate Dublin Core fields (but you can choose not to show them)
+Tricky aspect is that an item can only exist is one collection (built on museum model -> items come shipped within one collection)
+
+There is a controlled vocabulary plugin (assign a limited number of options to fields)
+It would be possible to adapt the LoC plugin to European context
+
+Dublin Core Data never get deleted (while you can delete the fields that YOU add)
+
+It is not possible to build subcollections -> hope to use SETS plugin to indicate level of subcollections
+
+How to insert existing data not by hand? --> CSV --> possibility to map fields in the CSV to Omeka fields (wow!)
+
+Omeka has a Zotero importer
+
+Different access levels: super / contributor (using plugin) / researcher (see public and private items, but not modify them) / admin (slightly less powers thab super at highest level) --> manageable in settings/users
+
+You can build exhibits with any item from your collections - exhibits have their own metadata
+
+Exhibit page layout is customizable (did I get it right?)
+
+You are not stuck to Dublin core: you can use also metadata sets linked to your specific craft (art historian/archivists/librarians)
+
+Dublin Core easily mapped to other standards --> using standards exportng becomes much easier.
+
+Hosting Omeka.net very useful for teaching purposes
+
+Problem with Dublin Core is that (on purpose) it is vague.

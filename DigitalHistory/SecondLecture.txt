@@ -1,0 +1,96 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-05-03T10:01:09+02:00
+
+====== SecondLecture ======
+Created Tuesday 03 May 2011
+
+THATCamp Florence 2011 – Finding & filtering primary sources
+
+See the Google doc here, anyone can add comments!
+
+This session discusses the various ways in which humanities scholars can locate primary sources on the internet. The goal of the session will be to collect ideas and search strategies and, ideally, to create a basic HOW TO guide.
+
+We could also discuss differences between using physical and online primary sources and the caveats of using e-sources.
+
+Questions:
+
+    search strategies: is there a basic systematic way of finding online sources or does it depend on topics (or both)?
+    types of online resources
+    tools
+    useful information: manuals, articles, etc.
+    differences between using physical and online primary sources
+
+Search strategies
+
+‘Normal’ search engines:
+
+    Google, etc.
+
+Searching the deep web: OAI-MHP compliant search engines:
+
+(Open Archives Initiative –  Metadata Harvesting Protocol)
+
+    OAIster - Worldcat
+    BASE – Bielefeld Academisch Search Engine. http://www.base-search.net
+
+Custom search engines:
+
+Create a search engine with websites that are relevant to your own research:
+
+    European History Primary Sources CSE (but no deep web). http://primary-sources.eui.eu
+
+Useful online resources
+
+Indexes:
+
+    Primary Documents Online – California State University San Marcos http://library.csusm.edu/subject_guides/history/online_primary.asp
+    European History Primary Sources (EHPS) http://primary-sources.eui.eu
+
+World:
+
+    Internet Archive. http://www.archive.org/
+    World Digital Library – WDL. http://www.wdl.org/en/
+
+European portals:
+
+    Europeana http://www.europeana.eu/portal/
+    MICHAEL, Multilingual inventory of Cultural Heritage in Europe  http://www.michael-culture.org/
+    The European Library http://search.theeuropeanlibrary.org/portal/en/index.html
+
+Paid websites/ subscription resources:
+(and how to find them?) 
+
+    Footnote.com
+    Gale Cengage – Primary Source Media (British Library) http://www.gale.cengage.com/psm/
+
+Tools
+
+    Firefox add-ons: see William Turkel: Going Digital
+    DEVONAgent (Mac): see William Turkel: Spider to Collect Sources
+    other useful tools?
+
+Useful articles/manuals
+
+    William Turkel: Going Digital
+    Best of History websites: Internet Search Tools http://www.besthistorysites.net/research.shtml#internet
+    Daniel Cohen, D-Lib 2006: From Babel to Knowledge. Data Mining Large Digital Collections.
+    World Wide Virtual Library: History. http://vlib.iue.it/history/index.html
+http://www.promo.net/pg/
+
+http://opac.sbn.it
+http://openlibrary.org
+http://www.lombardiabeniculturali.it/
+
+
+Using e-sources
+
+    querying e-sources:
+    metadata determine what you can find
+    keyword versus full-text search (think for example languages that cannot be OCR’ed yet).
+    context; example Historical Jewish Press, see also this advanced search. Physical sources: from general to specific. Many digital sources (especially full text): start with specific. Where does awareness of context go?
+    infinite archives/libraries: awareness of selection!
+
+Historical blogs: http://hnn.us/blogs/entries/9665.html
+
+http://www.library.illinois.edu/hpnl/newspapers/historical.php

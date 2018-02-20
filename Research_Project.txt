@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2011-03-19T09:00:54.664051
+
+====== Research Project ======
+Created Saturday 19 March 2011
+
+Focus on animals and plants!
+
+development of the Biotop idea
+
+wildlife management may be interpreted as one among many possible forms of resource use 
+The Alps as a Contested Environment. 
+Resource Use, Nature Conservation and Symbolic Discourses since the late 19th century.
+
+http://www.google.com/search%3Fq%3D%22Gran%20Paradiso%20National%20Park%22%26tbs%3Dbks:1%2Ccdr:1%2Ccd_min:1900%2Ccd_max:1963%26lr%3Dlang_en%23q%3D%22Gran%2BParadiso%2BNational%2BPark%22%26hl%3Den%26lr%3Dlang_en%26tbs%3Dbks:1%2Ccdr:1%2Ccd_min:1900%2Ccd_max:1963%2Clr:lang_1en%2Csbd:1%2Cvw:g%26source%3Dlnt%26sa%3DX%26ei%3Do3SMTc77LM7B4gbGseD1Cw%26ved%3D0CCUQpwUoAQ%26bav%3Don.2%2Cor.r_gc.r_pw.%26fp%3D84abe16c47dde074 (PNGP)
+
+http://www.google.com/search%3Fq%3D%22Stelvio%20National%20Park%22%26tbs%3Dbks:1%2Ccdr:1%2Ccd_min:1900%2Ccd_max:1951%26lr%3Dlang_en (PNS)
+
+http://ngrams.googlelabs.com/graph%3Fcontent%3DGran%2BParadiso%2BNational%2BPark%2CStelvio%2BNational%2BPark%26year_start%3D1900%26year_end%3D2000%26corpus%3D0%26smoothing%3D3
+
