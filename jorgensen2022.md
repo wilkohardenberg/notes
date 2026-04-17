@@ -1,0 +1,1 @@
+(215) The effectiveness of conservation should, according to Soule, be assessed on the basis of its success in slowing biodiversity loss. This however is quite hard to assess, and only so in a longue duree perspective.

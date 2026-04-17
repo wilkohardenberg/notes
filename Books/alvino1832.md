@@ -1,0 +1,1 @@
+11 "Ed in vero il livello del mare si è per più piedi elevato da venti secoli in qua; e questa idea viene confermata, dal suo elevarsi dalla punta della Campanella fino al Capo Miseno: Pozzuoli ne offre chiaramente le prove col tempio di Serapide ora sottoposto al mare"

@@ -2,6 +2,7 @@
 author:Renato Pampanini
 title:Le Parc National du Grand Paradis
 date:1920
+hashtags: #conservation
 ---
 
 [Renato Pampanini](http://plants.jstor.org/stable/10.5555/al.ap.person.bm000006273)

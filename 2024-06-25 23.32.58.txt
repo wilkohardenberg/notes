@@ -1,0 +1,10 @@
+EnvEchoes
+
+write out OCR
+
+OCR is notoriously not perfect (find lit and examples). Rough, 
+
+How is quality of fraktur ocr?
+We don't have much control on quality of output
+
+http://blplaybills.org/

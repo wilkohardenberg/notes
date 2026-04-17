@@ -2,6 +2,7 @@
 author:Flavio Santi	
 title:I Parchi Nazionali in Italia e la proposta di un PN dell'Abbruzzo
 date:1918
+hashtags: #conservation
 ---
 
 p. 72 published when the war was still ongoing, at first the author looks for excuses to talk about what may sound like a silly issue, stressing how once you are in the middle of a global process of destruction is the right time to think about conservation (and, literally, "save as much as possible of our natural richnesses". It would be better not to forget a nice project that had almost reached completion.

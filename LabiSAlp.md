@@ -1,14 +1,9 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2011-05-28T09:53:40+02:00
 
-====== LabiSAlp ======
-Created Monday 28 May 2011
 
-# dire qualcosa sulle linee di ricerca ancora aperte: i progetti di parco e l'impatto sull'opinione pubblica dell'idea di 
-parco
-# sacrario della nazione (Cuaz, I rumori del mondo, pp. 175-180) "monti sacri perchè bagnati dal sangue italiano2 (175)
-# Cuaz, Le Alpi, Mulino 2005 p. 87 stessa citazione / p. 116 origini belliciste del CNGEI
+dire qualcosa sulle linee di ricerca ancora aperte: i progetti di parco e l'impatto sull'opinione pubblica dell'idea di  parco
+
+sacrario della nazione (Cuaz, I rumori del mondo, pp. 175-180) "monti sacri perchè bagnati dal sangue italiano2 (175)
+Cuaz, Le Alpi, Mulino 2005 p. 87 stessa citazione / p. 116 origini belliciste del CNGEI
 
 @MarcoSchnyder maggiore visibilità dell'identità svizzera all'estero che in Italia (importante il frazionamento politico interno che induce più a un riconoscimento delle identià cantonali) @MattiaPeli parallelo con la storia contemporanea: ruolo delle pressioni del paese ospitante sulla definizione delle identià dei migranti.
 
@@ -28,15 +23,7 @@ Scomazzon: Switzerland as scenario of German-Italian conflict in the interwar ye
 
 @Beltrametti Pietro Piussi Uomini e paesaggi nell'alta Val Meluna (prealpi carniche) caso simile alla Val Grande
 
-# scoprire cosa sono i fili a sbalzo...
-
-
-
-
-
-
-
-
+#scoprire cosa sono i fili a sbalzo...
 
 @Cuaz: fare articolo in italiano sul Grampa per storiavda.it
 @Andrea: mandargli riferimento a Dana / valanghe

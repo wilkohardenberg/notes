@@ -1,0 +1,6 @@
+Throughout the 1950s the idea of man-made changes had a positive cling to it: a transformative, intentional influence of humans on climates and environments appeared like a desirable thing. In both capitalist and communist societies they were seen as the final expression of humans' ability to bend nature to their needs.[@sholl1954] James Rodger Fleming talks at this regard of the "pathological features" of intentional weather modification, stressing how cold war plans to influence the climate were just one of repeated attempts to weaponize the weather.[@fleming2006] This is a rather different interpretation in respect to contemporary uses of anthropogenic change.  
+
+In December 1970 the German-born American climatologist Helmut Landsberg published an article in Science discussing the role of human activities on climate change. Probably for the sake of clarity the article is title "Man-made climatic changes", rather than referring to anthropogenic changes. Nonetheless throughout the article the concept is widely used. As this is an informative review article, aimed at a broader audience the use of the term here may signal that the concept of systemic human-induced changes had already acquired some diffusion within the scientific community.
+
+"In recent year some people have voiced the suspicion that human activities  have altered the global climate"
+

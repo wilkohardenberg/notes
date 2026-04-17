@@ -27,7 +27,7 @@ p. 217 banning hunts is sufficient to save the bear, which is what zoologists ha
 
 p. 219 chamois hunting ban of 1913 already contributed to the rebirth of the species in the region (notwithstanding losses to eagles and vagrant dogs).
 
-n. on p. 221 Ansle Franklin Hall during his visit confirmed that tourism would not stop bears: in the US they got so used to humans that they steal garbage from the huts. If this happens in parks visited by up to 10000 tourists a day what could happen in Abruzzo.
+n. on p. 221 Ansel Franklin Hall during his visit confirmed that tourism would not stop bears: in the US they got so used to humans that they steal garbage from the huts. If this happens in parks visited by up to 10000 tourists a day what could happen in Abruzzo.
 
 p. 223 to increase rebirth of chamois we'd need to get rid of wolves, which would also be seen favourably by local pop because of improvement of personal and property sec.
 
@@ -57,7 +57,7 @@ p. 230 And even if no other park in the world was like PdA, then Italy would hav
 
 p. 231 The park's motto could be "_la civiltà sulle montagne_". It will adopt a rotational approach by whihc different areas will be protected and improved at different times. This is to face the issue of limited funds tha t would not allow an immediate preservation of the whole region.
 
-p. 233 zoologista have shown that the park does not need to be a closed one (n. 1 pp. 219-21)
+p. 233 zoologists have shown that the park does not need to be a closed one (n. 1 pp. 219-21)
 
 p. 235 fa distinzione tra protezione dei monumenti naturali e movimento per i PN. La prima "può esplicarsi su di un masso erratico, una caduta d'acqua o un albero, o una formazione vegetativa sino ad una riserva o ad un Parco, benché quest'ultimo caso si verifichi solo nel Parco dell'Engadina e non del tutto esclusivamente."
 

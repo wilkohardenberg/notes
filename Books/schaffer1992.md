@@ -1,0 +1,6 @@
+p. 23 "These stories indicate the extreme localisation of scientific practice: in these examples, experiments and observations are understood in terms of the features of specifci workplaces. But if facts depend so much on these local features, how do they work elsewhere? Practices must be distributed beyond the laboratory locale and the context of knowledge  multiplied. Thus networks are constructed to distribute instruments and values which make the world fit for science. Metrology, the establishment of standard units for natural quantities, is the principal enterprise which allows the dominationof this world. Metrology matters because of this relationship between the lab interior, in which values are established and reproduced, and the networks which link labs, in which values are established and reproduced, and the networks which link labs, in which values are translated and transformed."
+
+"Standardisation is therefore an obvious concern for historians of science. the physical values which the laboratory fixes are sustained by the social values which the laboratory inculcates."
+
+p. 24  "But in milieux such as those of Victorian Britain the propagation of standards and values was the means through which physicists reckoned they could link their work with technical and economic projects elsewhere in their society."
+
